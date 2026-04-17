@@ -1,0 +1,5307 @@
+6.9630 MIT Pokerbots - BASELINE vs IIT2024037_python_bot
+
+Round #1, BASELINE (0), IIT2024037_python_bot (0)
+Bounties reset to 5 for player BASELINE and 8 for player IIT2024037_python_bot
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4d As]
+IIT2024037_python_bot dealt [Kc Qs]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE calls
+Flop [2s 2c 5h], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [2s 2c 5h 7c], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [2s 2c 5h 7c Js], BASELINE (46), IIT2024037_python_bot (46)
+Current stacks: 354, 354
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [4d As]
+IIT2024037_python_bot shows [Kc Qs]
+BASELINE awarded 82
+IIT2024037_python_bot awarded -82
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (82), IIT2024037_python_bot (-82)
+
+Round #2, IIT2024037_python_bot (-82), BASELINE (82)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Td 4h]
+BASELINE dealt [Qc Jd]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (-83), BASELINE (83)
+
+Round #3, BASELINE (83), IIT2024037_python_bot (-83)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kh 6s]
+IIT2024037_python_bot dealt [9d 3c]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot folds
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+Winning counts at the end of the round: , BASELINE (89), IIT2024037_python_bot (-89)
+
+Round #4, IIT2024037_python_bot (-89), BASELINE (89)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7c 4h]
+BASELINE dealt [3d Td]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (-90), BASELINE (90)
+
+Round #5, BASELINE (90), IIT2024037_python_bot (-90)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jc 8h]
+IIT2024037_python_bot dealt [4c 3h]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (89), IIT2024037_python_bot (-89)
+
+Round #6, IIT2024037_python_bot (-89), BASELINE (89)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7h 4s]
+BASELINE dealt [Kc Js]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (-90), BASELINE (90)
+
+Round #7, BASELINE (90), IIT2024037_python_bot (-90)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qd Jc]
+IIT2024037_python_bot dealt [Ts 6s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (92), IIT2024037_python_bot (-92)
+
+Round #8, IIT2024037_python_bot (-92), BASELINE (92)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Js 9h]
+BASELINE dealt [Qs 6c]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [3h 4c 7d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [3h 4c 7d Ah], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE checks
+IIT2024037_python_bot checks
+River [3h 4c 7d Ah Ac], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [Js 9h]
+BASELINE shows [Qs 6c]
+IIT2024037_python_bot awarded -8
+BASELINE awarded 8
+Winning counts at the end of the round: , IIT2024037_python_bot (-100), BASELINE (100)
+
+Round #9, BASELINE (100), IIT2024037_python_bot (-100)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3s 9c]
+IIT2024037_python_bot dealt [7d 5d]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [3c 8d 3d], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [3c 8d 3d 6h], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+River [3c 8d 3d 6h 5h], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [3s 9c]
+IIT2024037_python_bot shows [7d 5d]
+BASELINE awarded 19
+IIT2024037_python_bot awarded -19
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (119), IIT2024037_python_bot (-119)
+
+Round #10, IIT2024037_python_bot (-119), BASELINE (119)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ad Jc]
+BASELINE dealt [Kh 7d]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE calls
+Flop [3c 2s Jd], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE bets 2
+IIT2024037_python_bot raises to 18
+BASELINE folds
+IIT2024037_python_bot awarded 12
+BASELINE awarded -12
+Winning counts at the end of the round: , IIT2024037_python_bot (-107), BASELINE (107)
+
+Round #11, BASELINE (107), IIT2024037_python_bot (-107)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7d 5d]
+IIT2024037_python_bot dealt [8s 6c]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 13
+IIT2024037_python_bot awarded -13
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (120), IIT2024037_python_bot (-120)
+
+Round #12, IIT2024037_python_bot (-120), BASELINE (120)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4h 6s]
+BASELINE dealt [Ks 2s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (-121), BASELINE (121)
+
+Round #13, BASELINE (121), IIT2024037_python_bot (-121)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6c 4s]
+IIT2024037_python_bot dealt [4c Ac]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Ad 8c 6s], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE raises to 18
+IIT2024037_python_bot raises to 47
+BASELINE folds
+BASELINE awarded -46
+IIT2024037_python_bot awarded 46
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (75), IIT2024037_python_bot (-75)
+
+Round #14, IIT2024037_python_bot (-75), BASELINE (75)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7h 5d]
+BASELINE dealt [Jh 6s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (-76), BASELINE (76)
+
+Round #15, BASELINE (76), IIT2024037_python_bot (-76)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2d 3c]
+IIT2024037_python_bot dealt [6s 8h]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (78), IIT2024037_python_bot (-78)
+
+Round #16, IIT2024037_python_bot (-78), BASELINE (78)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qs 4h]
+BASELINE dealt [5d 5s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (-90), BASELINE (90)
+
+Round #17, BASELINE (90), IIT2024037_python_bot (-90)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3s Ac]
+IIT2024037_python_bot dealt [5s Jh]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [As 9h Kh], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [As 9h Kh Qd], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [As 9h Kh Qd 2h], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [3s Ac]
+IIT2024037_python_bot shows [5s Jh]
+BASELINE awarded 10
+IIT2024037_python_bot awarded -10
+Winning counts at the end of the round: , BASELINE (100), IIT2024037_python_bot (-100)
+
+Round #18, IIT2024037_python_bot (-100), BASELINE (100)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3h 3c]
+BASELINE dealt [Ts Ah]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [2d 9d 6h], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [2d 9d 6h Th], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [2d 9d 6h Th Qh], IIT2024037_python_bot (8), BASELINE (8)
+Current stacks: 392, 392
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [3h 3c]
+BASELINE shows [Ts Ah]
+IIT2024037_python_bot awarded -10
+BASELINE awarded 10
+Winning counts at the end of the round: , IIT2024037_python_bot (-110), BASELINE (110)
+
+Round #19, BASELINE (110), IIT2024037_python_bot (-110)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9c Qd]
+IIT2024037_python_bot dealt [7d 7h]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [8d 3s 8s], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE raises to 18
+IIT2024037_python_bot calls
+Turn [8d 3s 8s 2h], BASELINE (24), IIT2024037_python_bot (24)
+Current stacks: 376, 376
+IIT2024037_python_bot bets 30
+BASELINE raises to 60
+IIT2024037_python_bot raises to 163
+BASELINE raises to 266
+IIT2024037_python_bot raises to 376
+BASELINE folds
+BASELINE awarded -445
+IIT2024037_python_bot awarded 445
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-335), IIT2024037_python_bot (335)
+
+Round #20, IIT2024037_python_bot (335), BASELINE (-335)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9c Kc]
+BASELINE dealt [8h 5h]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [Kh 4d Js], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot bets 6
+BASELINE calls
+Turn [Kh 4d Js Jd], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE bets 2
+IIT2024037_python_bot raises to 18
+BASELINE calls
+River [Kh 4d Js Jd 6h], IIT2024037_python_bot (28), BASELINE (28)
+Current stacks: 372, 372
+BASELINE checks
+IIT2024037_python_bot bets 35
+BASELINE calls
+IIT2024037_python_bot shows [9c Kc]
+BASELINE shows [8h 5h]
+IIT2024037_python_bot awarded 63
+BASELINE awarded -63
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (398), BASELINE (-398)
+
+Round #21, BASELINE (-398), IIT2024037_python_bot (398)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8d 7h]
+IIT2024037_python_bot dealt [8c 9c]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE raises to 60
+IIT2024037_python_bot raises to 92
+BASELINE raises to 124
+IIT2024037_python_bot raises to 188
+BASELINE calls
+Flop [8h 5c 9s], BASELINE (188), IIT2024037_python_bot (188)
+Current stacks: 212, 212
+IIT2024037_python_bot bets 212
+BASELINE calls
+Turn [8h 5c 9s 4s], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+River [8h 5c 9s 4s 6d], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [8d 7h]
+IIT2024037_python_bot shows [8c 9c]
+BASELINE awarded 610
+IIT2024037_python_bot awarded -610
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (212), IIT2024037_python_bot (-212)
+
+Round #22, IIT2024037_python_bot (-212), BASELINE (212)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3c 9s]
+BASELINE dealt [7d Qc]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (-213), BASELINE (213)
+
+Round #23, BASELINE (213), IIT2024037_python_bot (-213)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jd Tc]
+IIT2024037_python_bot dealt [9h 8c]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot calls
+Flop [8d 6s Ac], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot bets 14
+BASELINE calls
+Turn [8d 6s Ac Qh], BASELINE (24), IIT2024037_python_bot (24)
+Current stacks: 376, 376
+IIT2024037_python_bot bets 30
+BASELINE raises to 60
+IIT2024037_python_bot calls
+River [8d 6s Ac Qh Qd], BASELINE (84), IIT2024037_python_bot (84)
+Current stacks: 316, 316
+IIT2024037_python_bot bets 102
+BASELINE raises to 204
+IIT2024037_python_bot raises to 316
+BASELINE folds
+BASELINE awarded -442
+IIT2024037_python_bot awarded 442
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-229), IIT2024037_python_bot (229)
+
+Round #24, IIT2024037_python_bot (229), BASELINE (-229)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qc 7c]
+BASELINE dealt [Kd Ts]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (228), BASELINE (-228)
+
+Round #25, BASELINE (-228), IIT2024037_python_bot (228)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9s 5d]
+IIT2024037_python_bot dealt [Ah Ts]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [3h Td 6h], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE calls
+Turn [3h Td 6h 4h], BASELINE (15), IIT2024037_python_bot (15)
+Current stacks: 385, 385
+IIT2024037_python_bot bets 20
+BASELINE raises to 40
+IIT2024037_python_bot raises to 107
+BASELINE calls
+River [3h Td 6h 4h Ks], BASELINE (122), IIT2024037_python_bot (122)
+Current stacks: 278, 278
+IIT2024037_python_bot bets 148
+BASELINE folds
+BASELINE awarded -122
+IIT2024037_python_bot awarded 122
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-350), IIT2024037_python_bot (350)
+
+Round #26, IIT2024037_python_bot (350), BASELINE (-350)
+Bounties reset to 3 for player IIT2024037_python_bot and A for player BASELINE
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qd Qs]
+BASELINE dealt [4c Tc]
+IIT2024037_python_bot raises to 4
+BASELINE folds
+IIT2024037_python_bot awarded 2
+BASELINE awarded -2
+Winning counts at the end of the round: , IIT2024037_python_bot (352), BASELINE (-352)
+
+Round #27, BASELINE (-352), IIT2024037_python_bot (352)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5s 2h]
+IIT2024037_python_bot dealt [Kh 8s]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-353), IIT2024037_python_bot (353)
+
+Round #28, IIT2024037_python_bot (353), BASELINE (-353)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7h 9h]
+BASELINE dealt [2c 8h]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [2s Qh 5s], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [2s Qh 5s 8s], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -2
+BASELINE awarded 2
+Winning counts at the end of the round: , IIT2024037_python_bot (351), BASELINE (-351)
+
+Round #29, BASELINE (-351), IIT2024037_python_bot (351)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7s 3d]
+IIT2024037_python_bot dealt [9d As]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Jc 8d Kd], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Jc 8d Kd 5h], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+River [Jc 8d Kd 5h Td], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [7s 3d]
+IIT2024037_python_bot shows [9d As]
+BASELINE awarded -4
+IIT2024037_python_bot awarded 4
+Winning counts at the end of the round: , BASELINE (-355), IIT2024037_python_bot (355)
+
+Round #30, IIT2024037_python_bot (355), BASELINE (-355)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qc Qh]
+BASELINE dealt [9c 2d]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [8c 3c Qs], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot raises to 9
+BASELINE raises to 16
+IIT2024037_python_bot raises to 40
+BASELINE calls
+Turn [8c 3c Qs 8h], IIT2024037_python_bot (44), BASELINE (44)
+Current stacks: 356, 356
+BASELINE checks
+IIT2024037_python_bot bets 54
+BASELINE calls
+River [8c 3c Qs 8h 6c], IIT2024037_python_bot (98), BASELINE (98)
+Current stacks: 302, 302
+BASELINE checks
+IIT2024037_python_bot bets 119
+BASELINE raises to 238
+IIT2024037_python_bot raises to 302
+BASELINE folds
+IIT2024037_python_bot awarded 514
+BASELINE awarded -514
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (869), BASELINE (-869)
+
+Round #31, BASELINE (-869), IIT2024037_python_bot (869)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8h Jh]
+IIT2024037_python_bot dealt [Qh 8c]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+Winning counts at the end of the round: , BASELINE (-871), IIT2024037_python_bot (871)
+
+Round #32, IIT2024037_python_bot (871), BASELINE (-871)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5s 8d]
+BASELINE dealt [8s 6c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (870), BASELINE (-870)
+
+Round #33, BASELINE (-870), IIT2024037_python_bot (870)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3d Qd]
+IIT2024037_python_bot dealt [7c 3h]
+BASELINE folds
+BASELINE awarded -12
+IIT2024037_python_bot awarded 12
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-882), IIT2024037_python_bot (882)
+
+Round #34, IIT2024037_python_bot (882), BASELINE (-882)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5s Tc]
+BASELINE dealt [Qh 7h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (881), BASELINE (-881)
+
+Round #35, BASELINE (-881), IIT2024037_python_bot (881)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7h Jc]
+IIT2024037_python_bot dealt [8s 2h]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-879), IIT2024037_python_bot (879)
+
+Round #36, IIT2024037_python_bot (879), BASELINE (-879)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6h 5s]
+BASELINE dealt [Kc 3h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (878), BASELINE (-878)
+
+Round #37, BASELINE (-878), IIT2024037_python_bot (878)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jh Kd]
+IIT2024037_python_bot dealt [3s Qs]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [5c 7h 7d], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [5c 7h 7d Js], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+River [5c 7h 7d Js Ts], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Jh Kd]
+IIT2024037_python_bot shows [3s Qs]
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-872), IIT2024037_python_bot (872)
+
+Round #38, IIT2024037_python_bot (872), BASELINE (-872)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Th Td]
+BASELINE dealt [Jc 7h]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE folds
+IIT2024037_python_bot awarded 6
+BASELINE awarded -6
+Winning counts at the end of the round: , IIT2024037_python_bot (878), BASELINE (-878)
+
+Round #39, BASELINE (-878), IIT2024037_python_bot (878)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kc 2h]
+IIT2024037_python_bot dealt [4d 4c]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE calls
+Flop [5h 3d Jc], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [5h 3d Jc 7s], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot checks
+BASELINE checks
+River [5h 3d Jc 7s 3h], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [Kc 2h]
+IIT2024037_python_bot shows [4d 4c]
+BASELINE awarded -40
+IIT2024037_python_bot awarded 40
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-918), IIT2024037_python_bot (918)
+
+Round #40, IIT2024037_python_bot (918), BASELINE (-918)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8c 3h]
+BASELINE dealt [Ad 4s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (906), BASELINE (-906)
+
+Round #41, BASELINE (-906), IIT2024037_python_bot (906)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6h Qs]
+IIT2024037_python_bot dealt [5h Ad]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot calls
+Flop [Qd Kh 2c], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Qd Kh 2c 9d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Qd Kh 2c 9d 4h], BASELINE (12), IIT2024037_python_bot (12)
+Current stacks: 388, 388
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [6h Qs]
+IIT2024037_python_bot shows [5h Ad]
+BASELINE awarded 14
+IIT2024037_python_bot awarded -14
+Winning counts at the end of the round: , BASELINE (-892), IIT2024037_python_bot (892)
+
+Round #42, IIT2024037_python_bot (892), BASELINE (-892)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8c 2s]
+BASELINE dealt [5h Kd]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (891), BASELINE (-891)
+
+Round #43, BASELINE (-891), IIT2024037_python_bot (891)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6d 4h]
+IIT2024037_python_bot dealt [6s Qs]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Jd 2c 3c], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Jd 2c 3c 5s], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+River [Jd 2c 3c 5s Kd], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [6d 4h]
+IIT2024037_python_bot shows [6s Qs]
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-885), IIT2024037_python_bot (885)
+
+Round #44, IIT2024037_python_bot (885), BASELINE (-885)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2h 7s]
+BASELINE dealt [9s Jh]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (884), BASELINE (-884)
+
+Round #45, BASELINE (-884), IIT2024037_python_bot (884)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4d 9c]
+IIT2024037_python_bot dealt [Kd Qh]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-885), IIT2024037_python_bot (885)
+
+Round #46, IIT2024037_python_bot (885), BASELINE (-885)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Jd 3s]
+BASELINE dealt [9h 3d]
+IIT2024037_python_bot calls
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Ac 8s 4d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Ac 8s 4d 9d], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Ac 8s 4d 9d 7c], IIT2024037_python_bot (8), BASELINE (8)
+Current stacks: 392, 392
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [Jd 3s]
+BASELINE shows [9h 3d]
+IIT2024037_python_bot awarded -22
+BASELINE awarded 22
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (863), BASELINE (-863)
+
+Round #47, BASELINE (-863), IIT2024037_python_bot (863)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ad 2d]
+IIT2024037_python_bot dealt [Qd 5h]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot folds
+BASELINE awarded 19
+IIT2024037_python_bot awarded -19
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-844), IIT2024037_python_bot (844)
+
+Round #48, IIT2024037_python_bot (844), BASELINE (-844)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9h 6s]
+BASELINE dealt [3c 4h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (843), BASELINE (-843)
+
+Round #49, BASELINE (-843), IIT2024037_python_bot (843)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qd Ts]
+IIT2024037_python_bot dealt [9s Th]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE calls
+Flop [3h Jc 2s], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [3h Jc 2s 4d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [3h Jc 2s 4d Ac], BASELINE (12), IIT2024037_python_bot (12)
+Current stacks: 388, 388
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [Qd Ts]
+IIT2024037_python_bot shows [9s Th]
+BASELINE awarded 31
+IIT2024037_python_bot awarded -31
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-812), IIT2024037_python_bot (812)
+
+Round #50, IIT2024037_python_bot (812), BASELINE (-812)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5h Js]
+BASELINE dealt [8c 3d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (811), BASELINE (-811)
+
+Round #51, BASELINE (-811), IIT2024037_python_bot (811)
+Bounties reset to 6 for player BASELINE and J for player IIT2024037_python_bot
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ts 5c]
+IIT2024037_python_bot dealt [Tc 9h]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE calls
+Flop [5s 5d 8c], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [5s 5d 8c Kh], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [5s 5d 8c Kh Ac], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [Ts 5c]
+IIT2024037_python_bot shows [Tc 9h]
+BASELINE awarded 22
+IIT2024037_python_bot awarded -22
+Winning counts at the end of the round: , BASELINE (-789), IIT2024037_python_bot (789)
+
+Round #52, IIT2024037_python_bot (789), BASELINE (-789)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [As Qh]
+BASELINE dealt [Tc 6s]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE folds
+IIT2024037_python_bot awarded 6
+BASELINE awarded -6
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (795), BASELINE (-795)
+
+Round #53, BASELINE (-795), IIT2024037_python_bot (795)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2c Jc]
+IIT2024037_python_bot dealt [As 7h]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [2d 8c Td], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [2d 8c Td Qs], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [2d 8c Td Qs Kc], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [2c Jc]
+IIT2024037_python_bot shows [As 7h]
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+Winning counts at the end of the round: , BASELINE (-789), IIT2024037_python_bot (789)
+
+Round #54, IIT2024037_python_bot (789), BASELINE (-789)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ad As]
+BASELINE dealt [8s 3h]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [6h 8d 5s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot raises to 9
+BASELINE calls
+Turn [6h 8d 5s 4c], IIT2024037_python_bot (13), BASELINE (13)
+Current stacks: 387, 387
+BASELINE checks
+IIT2024037_python_bot bets 17
+BASELINE calls
+River [6h 8d 5s 4c Ks], IIT2024037_python_bot (30), BASELINE (30)
+Current stacks: 370, 370
+BASELINE checks
+IIT2024037_python_bot bets 38
+BASELINE calls
+IIT2024037_python_bot shows [Ad As]
+BASELINE shows [8s 3h]
+IIT2024037_python_bot awarded 68
+BASELINE awarded -68
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (857), BASELINE (-857)
+
+Round #55, BASELINE (-857), IIT2024037_python_bot (857)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qc 6s]
+IIT2024037_python_bot dealt [Js 9h]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE calls
+Flop [4h 2d Tc], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [4h 2d Tc Ks], BASELINE (22), IIT2024037_python_bot (22)
+Current stacks: 378, 378
+IIT2024037_python_bot checks
+BASELINE checks
+River [4h 2d Tc Ks 6h], BASELINE (22), IIT2024037_python_bot (22)
+Current stacks: 378, 378
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Qc 6s]
+IIT2024037_python_bot shows [Js 9h]
+BASELINE awarded 43
+IIT2024037_python_bot awarded -43
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-814), IIT2024037_python_bot (814)
+
+Round #56, IIT2024037_python_bot (814), BASELINE (-814)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ts Tc]
+BASELINE dealt [6h 3d]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [Kh 5h 7c], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot bets 6
+BASELINE raises to 12
+IIT2024037_python_bot raises to 31
+BASELINE raises to 50
+IIT2024037_python_bot calls
+Turn [Kh 5h 7c 9d], IIT2024037_python_bot (54), BASELINE (54)
+Current stacks: 346, 346
+BASELINE bets 2
+IIT2024037_python_bot raises to 84
+BASELINE calls
+River [Kh 5h 7c 9d 9c], IIT2024037_python_bot (138), BASELINE (138)
+Current stacks: 262, 262
+BASELINE checks
+IIT2024037_python_bot bets 167
+BASELINE raises to 262
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [Ts Tc]
+BASELINE shows [6h 3d]
+IIT2024037_python_bot awarded 400
+BASELINE awarded -400
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1214), BASELINE (-1214)
+
+Round #57, BASELINE (-1214), IIT2024037_python_bot (1214)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5h 3d]
+IIT2024037_python_bot dealt [9c 2s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1212), IIT2024037_python_bot (1212)
+
+Round #58, IIT2024037_python_bot (1212), BASELINE (-1212)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7s Kd]
+BASELINE dealt [5d 8s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1211), BASELINE (-1211)
+
+Round #59, BASELINE (-1211), IIT2024037_python_bot (1211)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6d Jc]
+IIT2024037_python_bot dealt [5d 7c]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [6s 4h Qs], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [6s 4h Qs Js], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+River [6s 4h Qs Js Jh], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot folds
+BASELINE awarded 16
+IIT2024037_python_bot awarded -16
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-1195), IIT2024037_python_bot (1195)
+
+Round #60, IIT2024037_python_bot (1195), BASELINE (-1195)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2h 9d]
+BASELINE dealt [4s Ad]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1194), BASELINE (-1194)
+
+Round #61, BASELINE (-1194), IIT2024037_python_bot (1194)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8s 9c]
+IIT2024037_python_bot dealt [2h 2s]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE calls
+Flop [2d 7d 9d], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot bets 54
+BASELINE folds
+BASELINE awarded -44
+IIT2024037_python_bot awarded 44
+Winning counts at the end of the round: , BASELINE (-1238), IIT2024037_python_bot (1238)
+
+Round #62, IIT2024037_python_bot (1238), BASELINE (-1238)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8c 5d]
+BASELINE dealt [5s Ts]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1237), BASELINE (-1237)
+
+Round #63, BASELINE (-1237), IIT2024037_python_bot (1237)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kc Td]
+IIT2024037_python_bot dealt [Ac 5h]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Ad Qh 3h], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot bets 6
+BASELINE raises to 12
+IIT2024037_python_bot raises to 31
+BASELINE calls
+Turn [Ad Qh 3h Kd], BASELINE (35), IIT2024037_python_bot (35)
+Current stacks: 365, 365
+IIT2024037_python_bot bets 44
+BASELINE calls
+River [Ad Qh 3h Kd 5d], BASELINE (79), IIT2024037_python_bot (79)
+Current stacks: 321, 321
+IIT2024037_python_bot bets 96
+BASELINE folds
+BASELINE awarded -79
+IIT2024037_python_bot awarded 79
+Winning counts at the end of the round: , BASELINE (-1316), IIT2024037_python_bot (1316)
+
+Round #64, IIT2024037_python_bot (1316), BASELINE (-1316)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7d 3c]
+BASELINE dealt [Ah Jh]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1315), BASELINE (-1315)
+
+Round #65, BASELINE (-1315), IIT2024037_python_bot (1315)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9c 2d]
+IIT2024037_python_bot dealt [5h Tc]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1313), IIT2024037_python_bot (1313)
+
+Round #66, IIT2024037_python_bot (1313), BASELINE (-1313)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7d As]
+BASELINE dealt [6d Kc]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [Qc 2c Kd], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Qc 2c Kd 8s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+River [Qc 2c Kd 8s Ah], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot raises to 9
+BASELINE raises to 16
+IIT2024037_python_bot raises to 40
+BASELINE raises to 64
+IIT2024037_python_bot raises to 148
+BASELINE calls
+IIT2024037_python_bot shows [7d As]
+BASELINE shows [6d Kc]
+IIT2024037_python_bot awarded 152
+BASELINE awarded -152
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1465), BASELINE (-1465)
+
+Round #67, BASELINE (-1465), IIT2024037_python_bot (1465)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ac Qc]
+IIT2024037_python_bot dealt [Js Ad]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -13
+IIT2024037_python_bot awarded 13
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-1478), IIT2024037_python_bot (1478)
+
+Round #68, IIT2024037_python_bot (1478), BASELINE (-1478)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2c 4h]
+BASELINE dealt [7s 2h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1477), BASELINE (-1477)
+
+Round #69, BASELINE (-1477), IIT2024037_python_bot (1477)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6d 5d]
+IIT2024037_python_bot dealt [2h Js]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [8h Tc Td], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [8h Tc Td Ks], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [8h Tc Td Ks Qh], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [6d 5d]
+IIT2024037_python_bot shows [2h Js]
+BASELINE awarded -28
+IIT2024037_python_bot awarded 28
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-1505), IIT2024037_python_bot (1505)
+
+Round #70, IIT2024037_python_bot (1505), BASELINE (-1505)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9c Td]
+BASELINE dealt [Kd 8c]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE calls
+Flop [6h Tc 8s], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE bets 2
+IIT2024037_python_bot raises to 18
+BASELINE raises to 34
+IIT2024037_python_bot raises to 88
+BASELINE raises to 142
+IIT2024037_python_bot raises to 329
+BASELINE raises to 390
+IIT2024037_python_bot calls
+Turn [6h Tc 8s 5d], IIT2024037_python_bot (400), BASELINE (400)
+Current stacks: 0, 0
+BASELINE checks
+IIT2024037_python_bot checks
+River [6h Tc 8s 5d 9d], IIT2024037_python_bot (400), BASELINE (400)
+Current stacks: 0, 0
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [9c Td]
+BASELINE shows [Kd 8c]
+IIT2024037_python_bot awarded 400
+BASELINE awarded -400
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1905), BASELINE (-1905)
+
+Round #71, BASELINE (-1905), IIT2024037_python_bot (1905)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7c Jc]
+IIT2024037_python_bot dealt [5h 9c]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1903), IIT2024037_python_bot (1903)
+
+Round #72, IIT2024037_python_bot (1903), BASELINE (-1903)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Kd 3h]
+BASELINE dealt [9c 2s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1902), BASELINE (-1902)
+
+Round #73, BASELINE (-1902), IIT2024037_python_bot (1902)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Th Tc]
+IIT2024037_python_bot dealt [3h 9c]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1900), IIT2024037_python_bot (1900)
+
+Round #74, IIT2024037_python_bot (1900), BASELINE (-1900)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6c 4d]
+BASELINE dealt [5d 6d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1888), BASELINE (-1888)
+
+Round #75, BASELINE (-1888), IIT2024037_python_bot (1888)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7c 7d]
+IIT2024037_python_bot dealt [Ks 6s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1886), IIT2024037_python_bot (1886)
+
+Round #76, IIT2024037_python_bot (1886), BASELINE (-1886)
+Bounties reset to 5 for player IIT2024037_python_bot and 8 for player BASELINE
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7d 4h]
+BASELINE dealt [Qs 8s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1874), BASELINE (-1874)
+
+Round #77, BASELINE (-1874), IIT2024037_python_bot (1874)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6d Ah]
+IIT2024037_python_bot dealt [8s Tc]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-1875), IIT2024037_python_bot (1875)
+
+Round #78, IIT2024037_python_bot (1875), BASELINE (-1875)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6c 3d]
+BASELINE dealt [6s 7s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1874), BASELINE (-1874)
+
+Round #79, BASELINE (-1874), IIT2024037_python_bot (1874)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8d 8c]
+IIT2024037_python_bot dealt [Qd Ks]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE calls
+Flop [2h 8s Th], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [2h 8s Th 5s], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE checks
+River [2h 8s Th 5s 3d], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [8d 8c]
+IIT2024037_python_bot shows [Qd Ks]
+BASELINE awarded 76
+IIT2024037_python_bot awarded -76
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-1798), IIT2024037_python_bot (1798)
+
+Round #80, IIT2024037_python_bot (1798), BASELINE (-1798)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qc Ad]
+BASELINE dealt [Td 6s]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [7d 7c 9d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [7d 7c 9d Kd], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [7d 7c 9d Kd 6h], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [Qc Ad]
+BASELINE shows [Td 6s]
+IIT2024037_python_bot awarded -8
+BASELINE awarded 8
+Winning counts at the end of the round: , IIT2024037_python_bot (1790), BASELINE (-1790)
+
+Round #81, BASELINE (-1790), IIT2024037_python_bot (1790)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ac 9h]
+IIT2024037_python_bot dealt [9c 2s]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot folds
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+Winning counts at the end of the round: , BASELINE (-1784), IIT2024037_python_bot (1784)
+
+Round #82, IIT2024037_python_bot (1784), BASELINE (-1784)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6h Jc]
+BASELINE dealt [2d 7s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1783), BASELINE (-1783)
+
+Round #83, BASELINE (-1783), IIT2024037_python_bot (1783)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7h 3d]
+IIT2024037_python_bot dealt [8d Kc]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1781), IIT2024037_python_bot (1781)
+
+Round #84, IIT2024037_python_bot (1781), BASELINE (-1781)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Kd 7h]
+BASELINE dealt [Jh 4d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1780), BASELINE (-1780)
+
+Round #85, BASELINE (-1780), IIT2024037_python_bot (1780)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Th Kh]
+IIT2024037_python_bot dealt [6d Ac]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Qh 4d Jd], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Qh 4d Jd 7d], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Qh 4d Jd 7d Kd], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot bets 11
+BASELINE calls
+BASELINE shows [Th Kh]
+IIT2024037_python_bot shows [6d Ac]
+BASELINE awarded -19
+IIT2024037_python_bot awarded 19
+Winning counts at the end of the round: , BASELINE (-1799), IIT2024037_python_bot (1799)
+
+Round #86, IIT2024037_python_bot (1799), BASELINE (-1799)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8c 8s]
+BASELINE dealt [Ad 9d]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE folds
+IIT2024037_python_bot awarded 6
+BASELINE awarded -6
+Winning counts at the end of the round: , IIT2024037_python_bot (1805), BASELINE (-1805)
+
+Round #87, BASELINE (-1805), IIT2024037_python_bot (1805)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2c 7d]
+IIT2024037_python_bot dealt [8s Kd]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1803), IIT2024037_python_bot (1803)
+
+Round #88, IIT2024037_python_bot (1803), BASELINE (-1803)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5s 2h]
+BASELINE dealt [Th Kd]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1802), BASELINE (-1802)
+
+Round #89, BASELINE (-1802), IIT2024037_python_bot (1802)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kc Jd]
+IIT2024037_python_bot dealt [5d 3s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-1800), IIT2024037_python_bot (1800)
+
+Round #90, IIT2024037_python_bot (1800), BASELINE (-1800)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3s Ah]
+BASELINE dealt [8s Tc]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [Qc Js Ac], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot bets 4
+BASELINE raises to 8
+IIT2024037_python_bot raises to 20
+BASELINE raises to 32
+IIT2024037_python_bot raises to 74
+BASELINE folds
+IIT2024037_python_bot awarded 34
+BASELINE awarded -34
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1834), BASELINE (-1834)
+
+Round #91, BASELINE (-1834), IIT2024037_python_bot (1834)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kc 9d]
+IIT2024037_python_bot dealt [Jh Th]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-1835), IIT2024037_python_bot (1835)
+
+Round #92, IIT2024037_python_bot (1835), BASELINE (-1835)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3c Ah]
+BASELINE dealt [8h 4c]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [Th Jh 3s], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Th Jh 3s Jd], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Th Jh 3s Jd 2c], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE checks
+IIT2024037_python_bot bets 9
+BASELINE calls
+IIT2024037_python_bot shows [3c Ah]
+BASELINE shows [8h 4c]
+IIT2024037_python_bot awarded 15
+BASELINE awarded -15
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1850), BASELINE (-1850)
+
+Round #93, BASELINE (-1850), IIT2024037_python_bot (1850)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8h Qd]
+IIT2024037_python_bot dealt [9c Jh]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-1852), IIT2024037_python_bot (1852)
+
+Round #94, IIT2024037_python_bot (1852), BASELINE (-1852)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6h 7h]
+BASELINE dealt [Ad Ac]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [3h Qc 3s], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -2
+BASELINE awarded 2
+Winning counts at the end of the round: , IIT2024037_python_bot (1850), BASELINE (-1850)
+
+Round #95, BASELINE (-1850), IIT2024037_python_bot (1850)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9s 7c]
+IIT2024037_python_bot dealt [Ah 7d]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-1851), IIT2024037_python_bot (1851)
+
+Round #96, IIT2024037_python_bot (1851), BASELINE (-1851)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9h 5d]
+BASELINE dealt [Qc Th]
+IIT2024037_python_bot calls
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Kc 7c 3h], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Kc 7c 3h 6h], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE checks
+IIT2024037_python_bot checks
+River [Kc 7c 3h 6h 7s], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [9h 5d]
+BASELINE shows [Qc Th]
+IIT2024037_python_bot awarded -6
+BASELINE awarded 6
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1845), BASELINE (-1845)
+
+Round #97, BASELINE (-1845), IIT2024037_python_bot (1845)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Tc 9h]
+IIT2024037_python_bot dealt [4c 3d]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-1843), IIT2024037_python_bot (1843)
+
+Round #98, IIT2024037_python_bot (1843), BASELINE (-1843)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7s Tc]
+BASELINE dealt [Qs 3c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (1842), BASELINE (-1842)
+
+Round #99, BASELINE (-1842), IIT2024037_python_bot (1842)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kd 5c]
+IIT2024037_python_bot dealt [Ks Jd]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE calls
+Flop [5h 4h 2d], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [5h 4h 2d 5d], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [5h 4h 2d 5d 4c], BASELINE (46), IIT2024037_python_bot (46)
+Current stacks: 354, 354
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Kd 5c]
+IIT2024037_python_bot shows [Ks Jd]
+BASELINE awarded 46
+IIT2024037_python_bot awarded -46
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-1796), IIT2024037_python_bot (1796)
+
+Round #100, IIT2024037_python_bot (1796), BASELINE (-1796)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8h As]
+BASELINE dealt [2s Qh]
+IIT2024037_python_bot calls
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Js 2h 5s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [Js 2h 5s 5c], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+River [Js 2h 5s 5c Ts], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [8h As]
+BASELINE shows [2s Qh]
+IIT2024037_python_bot awarded -6
+BASELINE awarded 6
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (1790), BASELINE (-1790)
+
+Round #101, BASELINE (-1790), IIT2024037_python_bot (1790)
+Bounties reset to 3 for player BASELINE and K for player IIT2024037_python_bot
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jd Kc]
+IIT2024037_python_bot dealt [Qd 9d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE raises to 26
+IIT2024037_python_bot raises to 42
+BASELINE raises to 58
+IIT2024037_python_bot raises to 90
+BASELINE folds
+BASELINE awarded -58
+IIT2024037_python_bot awarded 58
+Winning counts at the end of the round: , BASELINE (-1848), IIT2024037_python_bot (1848)
+
+Round #102, IIT2024037_python_bot (1848), BASELINE (-1848)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3s Ac]
+BASELINE dealt [8c 7c]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [8h Qd 7s], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [8h Qd 7s 2d], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [8h Qd 7s 2d 8d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [3s Ac]
+BASELINE shows [8c 7c]
+IIT2024037_python_bot awarded -4
+BASELINE awarded 4
+Winning counts at the end of the round: , IIT2024037_python_bot (1844), BASELINE (-1844)
+
+Round #103, BASELINE (-1844), IIT2024037_python_bot (1844)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6s 5d]
+IIT2024037_python_bot dealt [3d Js]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [2c 6c 6d], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [2c 6c 6d Qc], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+River [2c 6c 6d Qc Jd], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE folds
+BASELINE awarded -6
+IIT2024037_python_bot awarded 6
+Winning counts at the end of the round: , BASELINE (-1850), IIT2024037_python_bot (1850)
+
+Round #104, IIT2024037_python_bot (1850), BASELINE (-1850)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Jc Jh]
+BASELINE dealt [Ts Js]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE calls
+Flop [6h 4d As], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE bets 2
+IIT2024037_python_bot raises to 18
+BASELINE folds
+IIT2024037_python_bot awarded 12
+BASELINE awarded -12
+Winning counts at the end of the round: , IIT2024037_python_bot (1862), BASELINE (-1862)
+
+Round #105, BASELINE (-1862), IIT2024037_python_bot (1862)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3c Jc]
+IIT2024037_python_bot dealt [8s Qh]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Qs 3d 9h], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE calls
+Turn [Qs 3d 9h 6d], BASELINE (15), IIT2024037_python_bot (15)
+Current stacks: 385, 385
+IIT2024037_python_bot bets 20
+BASELINE raises to 40
+IIT2024037_python_bot raises to 107
+BASELINE calls
+River [Qs 3d 9h 6d 8h], BASELINE (122), IIT2024037_python_bot (122)
+Current stacks: 278, 278
+IIT2024037_python_bot bets 148
+BASELINE raises to 278
+IIT2024037_python_bot calls
+BASELINE shows [3c Jc]
+IIT2024037_python_bot shows [8s Qh]
+BASELINE awarded -400
+IIT2024037_python_bot awarded 400
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-2262), IIT2024037_python_bot (2262)
+
+Round #106, IIT2024037_python_bot (2262), BASELINE (-2262)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Th As]
+BASELINE dealt [7d Jd]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE raises to 14
+IIT2024037_python_bot raises to 22
+BASELINE raises to 30
+IIT2024037_python_bot raises to 46
+BASELINE raises to 62
+IIT2024037_python_bot raises to 94
+BASELINE calls
+Flop [5c 7s 6c], IIT2024037_python_bot (94), BASELINE (94)
+Current stacks: 306, 306
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [5c 7s 6c 8c], IIT2024037_python_bot (94), BASELINE (94)
+Current stacks: 306, 306
+BASELINE checks
+IIT2024037_python_bot checks
+River [5c 7s 6c 8c 8d], IIT2024037_python_bot (94), BASELINE (94)
+Current stacks: 306, 306
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [Th As]
+BASELINE shows [7d Jd]
+IIT2024037_python_bot awarded -94
+BASELINE awarded 94
+Winning counts at the end of the round: , IIT2024037_python_bot (2168), BASELINE (-2168)
+
+Round #107, BASELINE (-2168), IIT2024037_python_bot (2168)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ts 8c]
+IIT2024037_python_bot dealt [Kc 2d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot calls
+Flop [3h Th 6c], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [3h Th 6c 4c], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [3h Th 6c 4c 8d], BASELINE (12), IIT2024037_python_bot (12)
+Current stacks: 388, 388
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Ts 8c]
+IIT2024037_python_bot shows [Kc 2d]
+BASELINE awarded 28
+IIT2024037_python_bot awarded -28
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-2140), IIT2024037_python_bot (2140)
+
+Round #108, IIT2024037_python_bot (2140), BASELINE (-2140)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7c Kc]
+BASELINE dealt [5h 8h]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [3h 2d 5d], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [3h 2d 5d 3d], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [3h 2d 5d 3d 7s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot bets 6
+BASELINE calls
+IIT2024037_python_bot shows [7c Kc]
+BASELINE shows [5h 8h]
+IIT2024037_python_bot awarded 25
+BASELINE awarded -25
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (2165), BASELINE (-2165)
+
+Round #109, BASELINE (-2165), IIT2024037_python_bot (2165)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kh 8h]
+IIT2024037_python_bot dealt [9c Qd]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE calls
+Flop [Ac Jd 2h], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Ac Jd 2h 6c], BASELINE (46), IIT2024037_python_bot (46)
+Current stacks: 354, 354
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Ac Jd 2h 6c 9h], BASELINE (48), IIT2024037_python_bot (48)
+Current stacks: 352, 352
+IIT2024037_python_bot bets 59
+BASELINE raises to 118
+IIT2024037_python_bot raises to 322
+BASELINE raises to 352
+IIT2024037_python_bot calls
+BASELINE shows [Kh 8h]
+IIT2024037_python_bot shows [9c Qd]
+BASELINE awarded -400
+IIT2024037_python_bot awarded 400
+Winning counts at the end of the round: , BASELINE (-2565), IIT2024037_python_bot (2565)
+
+Round #110, IIT2024037_python_bot (2565), BASELINE (-2565)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8c Qs]
+BASELINE dealt [Jh 6c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (2564), BASELINE (-2564)
+
+Round #111, BASELINE (-2564), IIT2024037_python_bot (2564)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6d 4c]
+IIT2024037_python_bot dealt [7s Qc]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-2562), IIT2024037_python_bot (2562)
+
+Round #112, IIT2024037_python_bot (2562), BASELINE (-2562)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4s 3s]
+BASELINE dealt [5c 9d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (2561), BASELINE (-2561)
+
+Round #113, BASELINE (-2561), IIT2024037_python_bot (2561)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ad 4h]
+IIT2024037_python_bot dealt [As Td]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE calls
+Flop [Ts 9h Th], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot bets 11
+BASELINE calls
+Turn [Ts 9h Th Jd], BASELINE (19), IIT2024037_python_bot (19)
+Current stacks: 381, 381
+IIT2024037_python_bot bets 24
+BASELINE calls
+River [Ts 9h Th Jd 2s], BASELINE (43), IIT2024037_python_bot (43)
+Current stacks: 357, 357
+IIT2024037_python_bot bets 53
+BASELINE raises to 106
+IIT2024037_python_bot raises to 289
+BASELINE raises to 357
+IIT2024037_python_bot calls
+BASELINE shows [Ad 4h]
+IIT2024037_python_bot shows [As Td]
+BASELINE awarded -400
+IIT2024037_python_bot awarded 400
+Winning counts at the end of the round: , BASELINE (-2961), IIT2024037_python_bot (2961)
+
+Round #114, IIT2024037_python_bot (2961), BASELINE (-2961)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7c Ad]
+BASELINE dealt [4s Th]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [7d As Qs], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot bets 4
+BASELINE calls
+Turn [7d As Qs 7h], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE checks
+IIT2024037_python_bot bets 9
+BASELINE folds
+IIT2024037_python_bot awarded 6
+BASELINE awarded -6
+Winning counts at the end of the round: , IIT2024037_python_bot (2967), BASELINE (-2967)
+
+Round #115, BASELINE (-2967), IIT2024037_python_bot (2967)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ah 6c]
+IIT2024037_python_bot dealt [Td Ks]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE raises to 26
+IIT2024037_python_bot raises to 42
+BASELINE folds
+BASELINE awarded -49
+IIT2024037_python_bot awarded 49
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-3016), IIT2024037_python_bot (3016)
+
+Round #116, IIT2024037_python_bot (3016), BASELINE (-3016)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Kh 9h]
+BASELINE dealt [3c 7h]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE folds
+IIT2024037_python_bot awarded 19
+BASELINE awarded -19
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (3035), BASELINE (-3035)
+
+Round #117, BASELINE (-3035), IIT2024037_python_bot (3035)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5h 7c]
+IIT2024037_python_bot dealt [5c 5s]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE raises to 60
+IIT2024037_python_bot raises to 92
+BASELINE raises to 124
+IIT2024037_python_bot raises to 188
+BASELINE raises to 252
+IIT2024037_python_bot raises to 380
+BASELINE calls
+Flop [9s Qs Ah], BASELINE (380), IIT2024037_python_bot (380)
+Current stacks: 20, 20
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [9s Qs Ah 7d], BASELINE (382), IIT2024037_python_bot (382)
+Current stacks: 18, 18
+IIT2024037_python_bot bets 18
+BASELINE folds
+BASELINE awarded -382
+IIT2024037_python_bot awarded 382
+Winning counts at the end of the round: , BASELINE (-3417), IIT2024037_python_bot (3417)
+
+Round #118, IIT2024037_python_bot (3417), BASELINE (-3417)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5h 4c]
+BASELINE dealt [6c 6h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3416), BASELINE (-3416)
+
+Round #119, BASELINE (-3416), IIT2024037_python_bot (3416)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Tc 9d]
+IIT2024037_python_bot dealt [5h 8d]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-3417), IIT2024037_python_bot (3417)
+
+Round #120, IIT2024037_python_bot (3417), BASELINE (-3417)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7d Js]
+BASELINE dealt [2d 4s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3416), BASELINE (-3416)
+
+Round #121, BASELINE (-3416), IIT2024037_python_bot (3416)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Td 2c]
+IIT2024037_python_bot dealt [As Qs]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE folds
+BASELINE awarded -28
+IIT2024037_python_bot awarded 28
+Winning counts at the end of the round: , BASELINE (-3444), IIT2024037_python_bot (3444)
+
+Round #122, IIT2024037_python_bot (3444), BASELINE (-3444)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Td 2d]
+BASELINE dealt [Jd 8d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3443), BASELINE (-3443)
+
+Round #123, BASELINE (-3443), IIT2024037_python_bot (3443)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ks 4h]
+IIT2024037_python_bot dealt [7c Th]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot folds
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+Winning counts at the end of the round: , BASELINE (-3437), IIT2024037_python_bot (3437)
+
+Round #124, IIT2024037_python_bot (3437), BASELINE (-3437)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5d Js]
+BASELINE dealt [6d 5h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3436), BASELINE (-3436)
+
+Round #125, BASELINE (-3436), IIT2024037_python_bot (3436)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3s 3d]
+IIT2024037_python_bot dealt [Ah 5d]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Jc 9s 9d], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot bets 6
+BASELINE calls
+Turn [Jc 9s 9d Th], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Jc 9s 9d Th Ac], BASELINE (12), IIT2024037_python_bot (12)
+Current stacks: 388, 388
+IIT2024037_python_bot bets 16
+BASELINE folds
+BASELINE awarded -12
+IIT2024037_python_bot awarded 12
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-3448), IIT2024037_python_bot (3448)
+
+Round #126, IIT2024037_python_bot (3448), BASELINE (-3448)
+Bounties reset to 8 for player IIT2024037_python_bot and Q for player BASELINE
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6s 2d]
+BASELINE dealt [7h Td]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3447), BASELINE (-3447)
+
+Round #127, BASELINE (-3447), IIT2024037_python_bot (3447)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ks 7c]
+IIT2024037_python_bot dealt [Qs 9s]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Kh 6h 7d], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Kh 6h 7d Kc], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Kh 6h 7d Kc 5d], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Ks 7c]
+IIT2024037_python_bot shows [Qs 9s]
+BASELINE awarded 8
+IIT2024037_python_bot awarded -8
+Winning counts at the end of the round: , BASELINE (-3439), IIT2024037_python_bot (3439)
+
+Round #128, IIT2024037_python_bot (3439), BASELINE (-3439)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5c Kh]
+BASELINE dealt [Ac 9c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3438), BASELINE (-3438)
+
+Round #129, BASELINE (-3438), IIT2024037_python_bot (3438)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qs 5s]
+IIT2024037_python_bot dealt [2d Ts]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-3440), IIT2024037_python_bot (3440)
+
+Round #130, IIT2024037_python_bot (3440), BASELINE (-3440)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8c Ac]
+BASELINE dealt [Qc Ts]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [Jh 8s 6c], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot raises to 9
+BASELINE raises to 16
+IIT2024037_python_bot raises to 40
+BASELINE raises to 64
+IIT2024037_python_bot raises to 148
+BASELINE folds
+IIT2024037_python_bot awarded 112
+BASELINE awarded -112
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (3552), BASELINE (-3552)
+
+Round #131, BASELINE (-3552), IIT2024037_python_bot (3552)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ks 4c]
+IIT2024037_python_bot dealt [Qc Ah]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+Winning counts at the end of the round: , BASELINE (-3554), IIT2024037_python_bot (3554)
+
+Round #132, IIT2024037_python_bot (3554), BASELINE (-3554)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ac Js]
+BASELINE dealt [Ts Th]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [7h 9s 8s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [7h 9s 8s 8h], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [7h 9s 8s 8h 5d], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [Ac Js]
+BASELINE shows [Ts Th]
+IIT2024037_python_bot awarded -8
+BASELINE awarded 8
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (3546), BASELINE (-3546)
+
+Round #133, BASELINE (-3546), IIT2024037_python_bot (3546)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5s Jh]
+IIT2024037_python_bot dealt [6c 7c]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Ad Qh 7s], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot bets 6
+BASELINE calls
+Turn [Ad Qh 7s 7d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot bets 14
+BASELINE folds
+BASELINE awarded -10
+IIT2024037_python_bot awarded 10
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-3556), IIT2024037_python_bot (3556)
+
+Round #134, IIT2024037_python_bot (3556), BASELINE (-3556)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Jh 5s]
+BASELINE dealt [6d 7d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3555), BASELINE (-3555)
+
+Round #135, BASELINE (-3555), IIT2024037_python_bot (3555)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8s 3d]
+IIT2024037_python_bot dealt [7h 8h]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [8c 5c 4c], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [8c 5c 4c Td], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE calls
+River [8c 5c 4c Td 7d], BASELINE (15), IIT2024037_python_bot (15)
+Current stacks: 385, 385
+IIT2024037_python_bot bets 20
+BASELINE raises to 40
+IIT2024037_python_bot raises to 107
+BASELINE raises to 174
+IIT2024037_python_bot raises to 385
+BASELINE folds
+BASELINE awarded -294
+IIT2024037_python_bot awarded 294
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-3849), IIT2024037_python_bot (3849)
+
+Round #136, IIT2024037_python_bot (3849), BASELINE (-3849)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5d 7s]
+BASELINE dealt [7d 2s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (3848), BASELINE (-3848)
+
+Round #137, BASELINE (-3848), IIT2024037_python_bot (3848)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Tc 7d]
+IIT2024037_python_bot dealt [4d 8c]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-3846), IIT2024037_python_bot (3846)
+
+Round #138, IIT2024037_python_bot (3846), BASELINE (-3846)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ad 4s]
+BASELINE dealt [6c 7s]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [7c Th 4h], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [7c Th 4h 5c], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+River [7c Th 4h 5c 9h], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [Ad 4s]
+BASELINE shows [6c 7s]
+IIT2024037_python_bot awarded -2
+BASELINE awarded 2
+Winning counts at the end of the round: , IIT2024037_python_bot (3844), BASELINE (-3844)
+
+Round #139, BASELINE (-3844), IIT2024037_python_bot (3844)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3c Td]
+IIT2024037_python_bot dealt [7d 4s]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [Ts 8h Tc], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-3842), IIT2024037_python_bot (3842)
+
+Round #140, IIT2024037_python_bot (3842), BASELINE (-3842)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8h 8c]
+BASELINE dealt [9h 5c]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [6s 5d Ac], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot raises to 9
+BASELINE calls
+Turn [6s 5d Ac Kh], IIT2024037_python_bot (13), BASELINE (13)
+Current stacks: 387, 387
+BASELINE bets 2
+IIT2024037_python_bot raises to 23
+BASELINE raises to 44
+IIT2024037_python_bot raises to 113
+BASELINE raises to 182
+IIT2024037_python_bot raises to 387
+BASELINE calls
+River [6s 5d Ac Kh 2c], IIT2024037_python_bot (400), BASELINE (400)
+Current stacks: 0, 0
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [8h 8c]
+BASELINE shows [9h 5c]
+IIT2024037_python_bot awarded 610
+BASELINE awarded -610
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (4452), BASELINE (-4452)
+
+Round #141, BASELINE (-4452), IIT2024037_python_bot (4452)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5d 9h]
+IIT2024037_python_bot dealt [Qc Jh]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-4453), IIT2024037_python_bot (4453)
+
+Round #142, IIT2024037_python_bot (4453), BASELINE (-4453)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2c As]
+BASELINE dealt [Kd 5s]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [8h 2s Jc], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Turn [8h 2s Jc Kh], IIT2024037_python_bot (8), BASELINE (8)
+Current stacks: 392, 392
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [8h 2s Jc Kh Tc], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [2c As]
+BASELINE shows [Kd 5s]
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (4441), BASELINE (-4441)
+
+Round #143, BASELINE (-4441), IIT2024037_python_bot (4441)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5h 4s]
+IIT2024037_python_bot dealt [Jh Kc]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-4442), IIT2024037_python_bot (4442)
+
+Round #144, IIT2024037_python_bot (4442), BASELINE (-4442)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3s As]
+BASELINE dealt [4s Ah]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [8s 3d 9c], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [8s 3d 9c 9d], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE checks
+IIT2024037_python_bot bets 9
+BASELINE calls
+River [8s 3d 9c 9d Kd], IIT2024037_python_bot (15), BASELINE (15)
+Current stacks: 385, 385
+BASELINE checks
+IIT2024037_python_bot bets 20
+BASELINE raises to 40
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [3s As]
+BASELINE shows [4s Ah]
+IIT2024037_python_bot awarded 93
+BASELINE awarded -93
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (4535), BASELINE (-4535)
+
+Round #145, BASELINE (-4535), IIT2024037_python_bot (4535)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ac 8d]
+IIT2024037_python_bot dealt [4c 4h]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE calls
+Flop [Kd 5c 3c], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Kd 5c 3c 2h], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot bets 26
+BASELINE calls
+River [Kd 5c 3c 2h 7h], BASELINE (46), IIT2024037_python_bot (46)
+Current stacks: 354, 354
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [Ac 8d]
+IIT2024037_python_bot shows [4c 4h]
+BASELINE awarded -48
+IIT2024037_python_bot awarded 48
+Winning counts at the end of the round: , BASELINE (-4583), IIT2024037_python_bot (4583)
+
+Round #146, IIT2024037_python_bot (4583), BASELINE (-4583)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7s Qh]
+BASELINE dealt [Kc 2h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (4582), BASELINE (-4582)
+
+Round #147, BASELINE (-4582), IIT2024037_python_bot (4582)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4h 9h]
+IIT2024037_python_bot dealt [Qd As]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE raises to 26
+IIT2024037_python_bot raises to 42
+BASELINE raises to 58
+IIT2024037_python_bot raises to 90
+BASELINE raises to 122
+IIT2024037_python_bot raises to 186
+BASELINE raises to 250
+IIT2024037_python_bot raises to 378
+BASELINE raises to 400
+IIT2024037_python_bot calls
+Flop [5h Qc Jc], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [5h Qc Jc 6d], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+River [5h Qc Jc 6d 2s], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [4h 9h]
+IIT2024037_python_bot shows [Qd As]
+BASELINE awarded -400
+IIT2024037_python_bot awarded 400
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-4982), IIT2024037_python_bot (4982)
+
+Round #148, IIT2024037_python_bot (4982), BASELINE (-4982)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ad 2s]
+BASELINE dealt [7s 6c]
+IIT2024037_python_bot calls
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [7d 4s 4d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot bets 6
+BASELINE folds
+IIT2024037_python_bot awarded 4
+BASELINE awarded -4
+Winning counts at the end of the round: , IIT2024037_python_bot (4986), BASELINE (-4986)
+
+Round #149, BASELINE (-4986), IIT2024037_python_bot (4986)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Td 2s]
+IIT2024037_python_bot dealt [3c Ad]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Th 3s 6c], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Th 3s 6c 8h], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Th 3s 6c 8h As], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE raises to 18
+IIT2024037_python_bot raises to 47
+BASELINE raises to 76
+IIT2024037_python_bot raises to 177
+BASELINE raises to 278
+IIT2024037_python_bot raises to 394
+BASELINE folds
+BASELINE awarded -436
+IIT2024037_python_bot awarded 436
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-5422), IIT2024037_python_bot (5422)
+
+Round #150, IIT2024037_python_bot (5422), BASELINE (-5422)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6d 2h]
+BASELINE dealt [6c 3s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5421), BASELINE (-5421)
+
+Round #151, BASELINE (-5421), IIT2024037_python_bot (5421)
+Bounties reset to 6 for player BASELINE and 5 for player IIT2024037_python_bot
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8c 2c]
+IIT2024037_python_bot dealt [2d 3h]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5419), IIT2024037_python_bot (5419)
+
+Round #152, IIT2024037_python_bot (5419), BASELINE (-5419)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2c Ts]
+BASELINE dealt [Kc 7h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5418), BASELINE (-5418)
+
+Round #153, BASELINE (-5418), IIT2024037_python_bot (5418)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7h Jd]
+IIT2024037_python_bot dealt [9c 7s]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Qc 7c 6c], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE raises to 18
+IIT2024037_python_bot raises to 47
+BASELINE calls
+Turn [Qc 7c 6c Jh], BASELINE (53), IIT2024037_python_bot (53)
+Current stacks: 347, 347
+IIT2024037_python_bot bets 65
+BASELINE raises to 130
+IIT2024037_python_bot calls
+River [Qc 7c 6c Jh 2s], BASELINE (183), IIT2024037_python_bot (183)
+Current stacks: 217, 217
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [7h Jd]
+IIT2024037_python_bot shows [9c 7s]
+BASELINE awarded 284
+IIT2024037_python_bot awarded -284
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-5134), IIT2024037_python_bot (5134)
+
+Round #154, IIT2024037_python_bot (5134), BASELINE (-5134)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9c 2d]
+BASELINE dealt [7d 2s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5133), BASELINE (-5133)
+
+Round #155, BASELINE (-5133), IIT2024037_python_bot (5133)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qd Ac]
+IIT2024037_python_bot dealt [7h 9h]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Th Js 5d], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Th Js 5d 7s], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE raises to 18
+IIT2024037_python_bot raises to 47
+BASELINE raises to 76
+IIT2024037_python_bot calls
+River [Th Js 5d 7s 6h], BASELINE (82), IIT2024037_python_bot (82)
+Current stacks: 318, 318
+IIT2024037_python_bot bets 100
+BASELINE raises to 200
+IIT2024037_python_bot calls
+BASELINE shows [Qd Ac]
+IIT2024037_python_bot shows [7h 9h]
+BASELINE awarded -433
+IIT2024037_python_bot awarded 433
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-5566), IIT2024037_python_bot (5566)
+
+Round #156, IIT2024037_python_bot (5566), BASELINE (-5566)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6c 2s]
+BASELINE dealt [5c 4h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5565), BASELINE (-5565)
+
+Round #157, BASELINE (-5565), IIT2024037_python_bot (5565)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jh 9c]
+IIT2024037_python_bot dealt [Qd Qh]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE calls
+Flop [3d 3s 6s], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot bets 23
+BASELINE raises to 46
+IIT2024037_python_bot raises to 124
+BASELINE raises to 202
+IIT2024037_python_bot raises to 382
+BASELINE calls
+Turn [3d 3s 6s Jc], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+River [3d 3s 6s Jc 6h], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Jh 9c]
+IIT2024037_python_bot shows [Qd Qh]
+BASELINE awarded -400
+IIT2024037_python_bot awarded 400
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-5965), IIT2024037_python_bot (5965)
+
+Round #158, IIT2024037_python_bot (5965), BASELINE (-5965)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4h Ts]
+BASELINE dealt [9s 5d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5964), BASELINE (-5964)
+
+Round #159, BASELINE (-5964), IIT2024037_python_bot (5964)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kd Ks]
+IIT2024037_python_bot dealt [7h 4c]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5962), IIT2024037_python_bot (5962)
+
+Round #160, IIT2024037_python_bot (5962), BASELINE (-5962)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Jc 6c]
+BASELINE dealt [9h 9d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5961), BASELINE (-5961)
+
+Round #161, BASELINE (-5961), IIT2024037_python_bot (5961)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Js Qs]
+IIT2024037_python_bot dealt [Ac Kd]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE calls
+Flop [7s 4h 6d], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [7s 4h 6d 5d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [7s 4h 6d 5d 6h], BASELINE (12), IIT2024037_python_bot (12)
+Current stacks: 388, 388
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Js Qs]
+IIT2024037_python_bot shows [Ac Kd]
+BASELINE awarded -28
+IIT2024037_python_bot awarded 28
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-5989), IIT2024037_python_bot (5989)
+
+Round #162, IIT2024037_python_bot (5989), BASELINE (-5989)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4d 4s]
+BASELINE dealt [Ah 3s]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE calls
+Flop [Kd Ad 6s], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [Kd Ad 6s 7c], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE checks
+IIT2024037_python_bot checks
+River [Kd Ad 6s 7c Kh], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [4d 4s]
+BASELINE shows [Ah 3s]
+IIT2024037_python_bot awarded -28
+BASELINE awarded 28
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (5961), BASELINE (-5961)
+
+Round #163, BASELINE (-5961), IIT2024037_python_bot (5961)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ad 3d]
+IIT2024037_python_bot dealt [7c 3c]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5959), IIT2024037_python_bot (5959)
+
+Round #164, IIT2024037_python_bot (5959), BASELINE (-5959)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5h Js]
+BASELINE dealt [Td 6s]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [2d Th 8c], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [2d Th 8c 2h], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+River [2d Th 8c 2h 9c], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [5h Js]
+BASELINE shows [Td 6s]
+IIT2024037_python_bot awarded -13
+BASELINE awarded 13
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (5946), BASELINE (-5946)
+
+Round #165, BASELINE (-5946), IIT2024037_python_bot (5946)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [As 6s]
+IIT2024037_python_bot dealt [Ac Ah]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE calls
+Flop [Kd 6d 4c], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot bets 26
+BASELINE raises to 52
+IIT2024037_python_bot raises to 140
+BASELINE calls
+Turn [Kd 6d 4c 2d], BASELINE (160), IIT2024037_python_bot (160)
+Current stacks: 240, 240
+IIT2024037_python_bot bets 194
+BASELINE calls
+River [Kd 6d 4c 2d 8d], BASELINE (354), IIT2024037_python_bot (354)
+Current stacks: 46, 46
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [As 6s]
+IIT2024037_python_bot shows [Ac Ah]
+BASELINE awarded -354
+IIT2024037_python_bot awarded 354
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-6300), IIT2024037_python_bot (6300)
+
+Round #166, IIT2024037_python_bot (6300), BASELINE (-6300)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2c 7d]
+BASELINE dealt [Ad Js]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6299), BASELINE (-6299)
+
+Round #167, BASELINE (-6299), IIT2024037_python_bot (6299)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kd 3c]
+IIT2024037_python_bot dealt [Ah 3d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+Winning counts at the end of the round: , BASELINE (-6301), IIT2024037_python_bot (6301)
+
+Round #168, IIT2024037_python_bot (6301), BASELINE (-6301)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3c 3h]
+BASELINE dealt [Jd Jh]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE raises to 14
+IIT2024037_python_bot raises to 22
+BASELINE raises to 30
+IIT2024037_python_bot raises to 46
+BASELINE raises to 62
+IIT2024037_python_bot raises to 94
+BASELINE folds
+IIT2024037_python_bot awarded 62
+BASELINE awarded -62
+Winning counts at the end of the round: , IIT2024037_python_bot (6363), BASELINE (-6363)
+
+Round #169, BASELINE (-6363), IIT2024037_python_bot (6363)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jh Tc]
+IIT2024037_python_bot dealt [Jd 8d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Qd 8s 3s], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Qd 8s 3s 9s], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Qd 8s 3s 9s Jc], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot bets 11
+BASELINE calls
+BASELINE shows [Jh Tc]
+IIT2024037_python_bot shows [Jd 8d]
+BASELINE awarded 19
+IIT2024037_python_bot awarded -19
+Winning counts at the end of the round: , BASELINE (-6344), IIT2024037_python_bot (6344)
+
+Round #170, IIT2024037_python_bot (6344), BASELINE (-6344)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qc Qs]
+BASELINE dealt [5c Qh]
+IIT2024037_python_bot raises to 4
+BASELINE folds
+IIT2024037_python_bot awarded 2
+BASELINE awarded -2
+Winning counts at the end of the round: , IIT2024037_python_bot (6346), BASELINE (-6346)
+
+Round #171, BASELINE (-6346), IIT2024037_python_bot (6346)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [As 2h]
+IIT2024037_python_bot dealt [Qh 7h]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-6344), IIT2024037_python_bot (6344)
+
+Round #172, IIT2024037_python_bot (6344), BASELINE (-6344)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7d 8h]
+BASELINE dealt [3c Js]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6343), BASELINE (-6343)
+
+Round #173, BASELINE (-6343), IIT2024037_python_bot (6343)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Tc Td]
+IIT2024037_python_bot dealt [4c 2c]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-6344), IIT2024037_python_bot (6344)
+
+Round #174, IIT2024037_python_bot (6344), BASELINE (-6344)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Tc 3s]
+BASELINE dealt [Ts 3d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6343), BASELINE (-6343)
+
+Round #175, BASELINE (-6343), IIT2024037_python_bot (6343)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qd Qc]
+IIT2024037_python_bot dealt [Js Kd]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE calls
+Flop [5d 5c 4d], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [5d 5c 4d 8s], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [5d 5c 4d 8s 5h], BASELINE (12), IIT2024037_python_bot (12)
+Current stacks: 388, 388
+IIT2024037_python_bot bets 16
+BASELINE calls
+BASELINE shows [Qd Qc]
+IIT2024037_python_bot shows [Js Kd]
+BASELINE awarded 28
+IIT2024037_python_bot awarded -28
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-6315), IIT2024037_python_bot (6315)
+
+Round #176, IIT2024037_python_bot (6315), BASELINE (-6315)
+Bounties reset to J for player IIT2024037_python_bot and A for player BASELINE
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5d Kd]
+BASELINE dealt [7d 9h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6314), BASELINE (-6314)
+
+Round #177, BASELINE (-6314), IIT2024037_python_bot (6314)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9c 2c]
+IIT2024037_python_bot dealt [9h Js]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Jc 8c 4c], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE raises to 18
+IIT2024037_python_bot raises to 47
+BASELINE calls
+Turn [Jc 8c 4c As], BASELINE (53), IIT2024037_python_bot (53)
+Current stacks: 347, 347
+IIT2024037_python_bot bets 65
+BASELINE calls
+River [Jc 8c 4c As Ah], BASELINE (118), IIT2024037_python_bot (118)
+Current stacks: 282, 282
+IIT2024037_python_bot bets 143
+BASELINE calls
+BASELINE shows [9c 2c]
+IIT2024037_python_bot shows [9h Js]
+BASELINE awarded 402
+IIT2024037_python_bot awarded -402
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-5912), IIT2024037_python_bot (5912)
+
+Round #178, IIT2024037_python_bot (5912), BASELINE (-5912)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7s Kd]
+BASELINE dealt [5c 8h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5911), BASELINE (-5911)
+
+Round #179, BASELINE (-5911), IIT2024037_python_bot (5911)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6h Ah]
+IIT2024037_python_bot dealt [7c Th]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 13
+IIT2024037_python_bot awarded -13
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-5898), IIT2024037_python_bot (5898)
+
+Round #180, IIT2024037_python_bot (5898), BASELINE (-5898)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6c 9d]
+BASELINE dealt [Td 8s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5897), BASELINE (-5897)
+
+Round #181, BASELINE (-5897), IIT2024037_python_bot (5897)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kc 2h]
+IIT2024037_python_bot dealt [Qc 3c]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5895), IIT2024037_python_bot (5895)
+
+Round #182, IIT2024037_python_bot (5895), BASELINE (-5895)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9h 7h]
+BASELINE dealt [2d 2h]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [5h Ac Kc], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [5h Ac Kc Ks], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+River [5h Ac Kc Ks Kd], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [9h 7h]
+BASELINE shows [2d 2h]
+IIT2024037_python_bot awarded -16
+BASELINE awarded 16
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (5879), BASELINE (-5879)
+
+Round #183, BASELINE (-5879), IIT2024037_python_bot (5879)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7h 2d]
+IIT2024037_python_bot dealt [5d 9d]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5877), IIT2024037_python_bot (5877)
+
+Round #184, IIT2024037_python_bot (5877), BASELINE (-5877)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9c As]
+BASELINE dealt [4c 6d]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [Kh Js 8c], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [Kh Js 8c Jh], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Kh Js 8c Jh 7s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [9c As]
+BASELINE shows [4c 6d]
+IIT2024037_python_bot awarded 16
+BASELINE awarded -16
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (5893), BASELINE (-5893)
+
+Round #185, BASELINE (-5893), IIT2024037_python_bot (5893)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8d 9d]
+IIT2024037_python_bot dealt [4s 3h]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5891), IIT2024037_python_bot (5891)
+
+Round #186, IIT2024037_python_bot (5891), BASELINE (-5891)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7d Kh]
+BASELINE dealt [Kc 9c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5890), BASELINE (-5890)
+
+Round #187, BASELINE (-5890), IIT2024037_python_bot (5890)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5h 9c]
+IIT2024037_python_bot dealt [5c 3s]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [Js Kh Ah], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Js Kh Ah 2s], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+River [Js Kh Ah 2s 2c], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [5h 9c]
+IIT2024037_python_bot shows [5c 3s]
+BASELINE awarded 0
+IIT2024037_python_bot awarded 0
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-5890), IIT2024037_python_bot (5890)
+
+Round #188, IIT2024037_python_bot (5890), BASELINE (-5890)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Kd 3d]
+BASELINE dealt [6d 6h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5889), BASELINE (-5889)
+
+Round #189, BASELINE (-5889), IIT2024037_python_bot (5889)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qs 4h]
+IIT2024037_python_bot dealt [2c 8d]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [Kc 4c Kh], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5887), IIT2024037_python_bot (5887)
+
+Round #190, IIT2024037_python_bot (5887), BASELINE (-5887)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8h 2c]
+BASELINE dealt [8s 2s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (5886), BASELINE (-5886)
+
+Round #191, BASELINE (-5886), IIT2024037_python_bot (5886)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8c Js]
+IIT2024037_python_bot dealt [4h Td]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-5884), IIT2024037_python_bot (5884)
+
+Round #192, IIT2024037_python_bot (5884), BASELINE (-5884)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2c Ad]
+BASELINE dealt [9d 5c]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [6d 8c 5d], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [6d 8c 5d 4s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [6d 8c 5d 4s 8h], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [2c Ad]
+BASELINE shows [9d 5c]
+IIT2024037_python_bot awarded -6
+BASELINE awarded 6
+Winning counts at the end of the round: , IIT2024037_python_bot (5878), BASELINE (-5878)
+
+Round #193, BASELINE (-5878), IIT2024037_python_bot (5878)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2h 9h]
+IIT2024037_python_bot dealt [6d Ah]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Tc Jc 3d], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Tc Jc 3d 5h], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Tc Jc 3d 5h 7d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [2h 9h]
+IIT2024037_python_bot shows [6d Ah]
+BASELINE awarded -25
+IIT2024037_python_bot awarded 25
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-5903), IIT2024037_python_bot (5903)
+
+Round #194, IIT2024037_python_bot (5903), BASELINE (-5903)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6s 6d]
+BASELINE dealt [9s Ks]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE raises to 14
+IIT2024037_python_bot raises to 22
+BASELINE raises to 30
+IIT2024037_python_bot raises to 46
+BASELINE raises to 62
+IIT2024037_python_bot raises to 94
+BASELINE raises to 126
+IIT2024037_python_bot raises to 190
+BASELINE calls
+Flop [2d Jd 6c], IIT2024037_python_bot (190), BASELINE (190)
+Current stacks: 210, 210
+BASELINE checks
+IIT2024037_python_bot bets 210
+BASELINE calls
+Turn [2d Jd 6c Ac], IIT2024037_python_bot (400), BASELINE (400)
+Current stacks: 0, 0
+BASELINE checks
+IIT2024037_python_bot checks
+River [2d Jd 6c Ac 9h], IIT2024037_python_bot (400), BASELINE (400)
+Current stacks: 0, 0
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [6s 6d]
+BASELINE shows [9s Ks]
+IIT2024037_python_bot awarded 610
+BASELINE awarded -610
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (6513), BASELINE (-6513)
+
+Round #195, BASELINE (-6513), IIT2024037_python_bot (6513)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4s 5s]
+IIT2024037_python_bot dealt [Ac 5h]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-6514), IIT2024037_python_bot (6514)
+
+Round #196, IIT2024037_python_bot (6514), BASELINE (-6514)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6c Th]
+BASELINE dealt [As Qc]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (6502), BASELINE (-6502)
+
+Round #197, BASELINE (-6502), IIT2024037_python_bot (6502)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Td Jc]
+IIT2024037_python_bot dealt [3s Ts]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-6500), IIT2024037_python_bot (6500)
+
+Round #198, IIT2024037_python_bot (6500), BASELINE (-6500)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6s 3d]
+BASELINE dealt [Jh 7h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6499), BASELINE (-6499)
+
+Round #199, BASELINE (-6499), IIT2024037_python_bot (6499)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ah Td]
+IIT2024037_python_bot dealt [2c Qc]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 13
+IIT2024037_python_bot awarded -13
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-6486), IIT2024037_python_bot (6486)
+
+Round #200, IIT2024037_python_bot (6486), BASELINE (-6486)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Kc As]
+BASELINE dealt [Qs Ac]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE folds
+IIT2024037_python_bot awarded 6
+BASELINE awarded -6
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (6492), BASELINE (-6492)
+
+Round #201, BASELINE (-6492), IIT2024037_python_bot (6492)
+Bounties reset to T for player BASELINE and T for player IIT2024037_python_bot
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4d Kc]
+IIT2024037_python_bot dealt [Qs 2h]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-6490), IIT2024037_python_bot (6490)
+
+Round #202, IIT2024037_python_bot (6490), BASELINE (-6490)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Tc 8d]
+BASELINE dealt [7h 4d]
+IIT2024037_python_bot calls
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [Jh 7s Jc], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot bets 6
+BASELINE raises to 12
+IIT2024037_python_bot calls
+Turn [Jh 7s Jc Qs], IIT2024037_python_bot (16), BASELINE (16)
+Current stacks: 384, 384
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Jh 7s Jc Qs Jd], IIT2024037_python_bot (18), BASELINE (18)
+Current stacks: 382, 382
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [Tc 8d]
+BASELINE shows [7h 4d]
+IIT2024037_python_bot awarded -18
+BASELINE awarded 18
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (6472), BASELINE (-6472)
+
+Round #203, BASELINE (-6472), IIT2024037_python_bot (6472)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ts Kc]
+IIT2024037_python_bot dealt [Td Kh]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE calls
+Flop [Qc 5s Ac], BASELINE (44), IIT2024037_python_bot (44)
+Current stacks: 356, 356
+IIT2024037_python_bot bets 54
+BASELINE raises to 108
+IIT2024037_python_bot calls
+Turn [Qc 5s Ac 4s], BASELINE (152), IIT2024037_python_bot (152)
+Current stacks: 248, 248
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Qc 5s Ac 4s Jc], BASELINE (154), IIT2024037_python_bot (154)
+Current stacks: 246, 246
+IIT2024037_python_bot bets 186
+BASELINE folds
+BASELINE awarded -241
+IIT2024037_python_bot awarded 241
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-6713), IIT2024037_python_bot (6713)
+
+Round #204, IIT2024037_python_bot (6713), BASELINE (-6713)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8h 8s]
+BASELINE dealt [6h 9c]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE folds
+IIT2024037_python_bot awarded 6
+BASELINE awarded -6
+Winning counts at the end of the round: , IIT2024037_python_bot (6719), BASELINE (-6719)
+
+Round #205, BASELINE (-6719), IIT2024037_python_bot (6719)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jd Jh]
+IIT2024037_python_bot dealt [6h 5d]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [5s Js 4c], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [5s Js 4c 3h], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot bets 6
+BASELINE folds
+BASELINE awarded -4
+IIT2024037_python_bot awarded 4
+Winning counts at the end of the round: , BASELINE (-6723), IIT2024037_python_bot (6723)
+
+Round #206, IIT2024037_python_bot (6723), BASELINE (-6723)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Jh 6d]
+BASELINE dealt [5d Ks]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6722), BASELINE (-6722)
+
+Round #207, BASELINE (-6722), IIT2024037_python_bot (6722)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kd 2s]
+IIT2024037_python_bot dealt [5d Tc]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot calls
+Flop [Jc 4c Kh], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Jc 4c Kh Qd], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+River [Jc 4c Kh Qd Kc], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [Kd 2s]
+IIT2024037_python_bot shows [5d Tc]
+BASELINE awarded 12
+IIT2024037_python_bot awarded -12
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-6710), IIT2024037_python_bot (6710)
+
+Round #208, IIT2024037_python_bot (6710), BASELINE (-6710)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2s 4s]
+BASELINE dealt [7d 7c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6709), BASELINE (-6709)
+
+Round #209, BASELINE (-6709), IIT2024037_python_bot (6709)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2d 3d]
+IIT2024037_python_bot dealt [5d 5c]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE calls
+Flop [9c Tc Jc], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [9c Tc Jc Kh], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE checks
+River [9c Tc Jc Kh Qs], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [2d 3d]
+IIT2024037_python_bot shows [5d 5c]
+BASELINE awarded 0
+IIT2024037_python_bot awarded 0
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-6709), IIT2024037_python_bot (6709)
+
+Round #210, IIT2024037_python_bot (6709), BASELINE (-6709)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2h 4d]
+BASELINE dealt [8h Ah]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6708), BASELINE (-6708)
+
+Round #211, BASELINE (-6708), IIT2024037_python_bot (6708)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9d 3s]
+IIT2024037_python_bot dealt [5h Ah]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+Winning counts at the end of the round: , BASELINE (-6710), IIT2024037_python_bot (6710)
+
+Round #212, IIT2024037_python_bot (6710), BASELINE (-6710)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8h 2c]
+BASELINE dealt [7h Qc]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6709), BASELINE (-6709)
+
+Round #213, BASELINE (-6709), IIT2024037_python_bot (6709)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8c 7d]
+IIT2024037_python_bot dealt [As 4s]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE calls
+Flop [6d 3c Qs], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [6d 3c Qs Kd], BASELINE (22), IIT2024037_python_bot (22)
+Current stacks: 378, 378
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [6d 3c Qs Kd Ac], BASELINE (24), IIT2024037_python_bot (24)
+Current stacks: 376, 376
+IIT2024037_python_bot bets 30
+BASELINE folds
+BASELINE awarded -24
+IIT2024037_python_bot awarded 24
+Winning counts at the end of the round: , BASELINE (-6733), IIT2024037_python_bot (6733)
+
+Round #214, IIT2024037_python_bot (6733), BASELINE (-6733)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2s 3h]
+BASELINE dealt [7c 5h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (6732), BASELINE (-6732)
+
+Round #215, BASELINE (-6732), IIT2024037_python_bot (6732)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6h 6c]
+IIT2024037_python_bot dealt [Ah 6s]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-6733), IIT2024037_python_bot (6733)
+
+Round #216, IIT2024037_python_bot (6733), BASELINE (-6733)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9h Tc]
+BASELINE dealt [3h 4d]
+IIT2024037_python_bot raises to 4
+BASELINE folds
+IIT2024037_python_bot awarded 13
+BASELINE awarded -13
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (6746), BASELINE (-6746)
+
+Round #217, BASELINE (-6746), IIT2024037_python_bot (6746)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6h 7h]
+IIT2024037_python_bot dealt [3c 2s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-6744), IIT2024037_python_bot (6744)
+
+Round #218, IIT2024037_python_bot (6744), BASELINE (-6744)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [As 5h]
+BASELINE dealt [8h Ah]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [4s 5d 6d], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [4s 5d 6d Kh], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [4s 5d 6d Kh 7s], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [As 5h]
+BASELINE shows [8h Ah]
+IIT2024037_python_bot awarded -4
+BASELINE awarded 4
+Winning counts at the end of the round: , IIT2024037_python_bot (6740), BASELINE (-6740)
+
+Round #219, BASELINE (-6740), IIT2024037_python_bot (6740)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8s Th]
+IIT2024037_python_bot dealt [2c Qs]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [9d 8c 4c], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [9d 8c 4c Jh], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+River [9d 8c 4c Jh Jc], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [8s Th]
+IIT2024037_python_bot shows [2c Qs]
+BASELINE awarded 22
+IIT2024037_python_bot awarded -22
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-6718), IIT2024037_python_bot (6718)
+
+Round #220, IIT2024037_python_bot (6718), BASELINE (-6718)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9d Td]
+BASELINE dealt [Kc Ah]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [Qd Ad 2h], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Qd Ad 2h 3h], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Qd Ad 2h 3h Th], IIT2024037_python_bot (8), BASELINE (8)
+Current stacks: 392, 392
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [9d Td]
+BASELINE shows [Kc Ah]
+IIT2024037_python_bot awarded -25
+BASELINE awarded 25
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (6693), BASELINE (-6693)
+
+Round #221, BASELINE (-6693), IIT2024037_python_bot (6693)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qc Kc]
+IIT2024037_python_bot dealt [2h 5d]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-6694), IIT2024037_python_bot (6694)
+
+Round #222, IIT2024037_python_bot (6694), BASELINE (-6694)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2d 2c]
+BASELINE dealt [Kd 7d]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [9d Ts 4d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [9d Ts 4d 4h], IIT2024037_python_bot (6), BASELINE (6)
+Current stacks: 394, 394
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [9d Ts 4d 4h Jh], IIT2024037_python_bot (8), BASELINE (8)
+Current stacks: 392, 392
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [2d 2c]
+BASELINE shows [Kd 7d]
+IIT2024037_python_bot awarded 25
+BASELINE awarded -25
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (6719), BASELINE (-6719)
+
+Round #223, BASELINE (-6719), IIT2024037_python_bot (6719)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3s 8h]
+IIT2024037_python_bot dealt [Qc Qd]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE calls
+Flop [Ah 6s 5c], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot bets 23
+BASELINE raises to 46
+IIT2024037_python_bot raises to 124
+BASELINE calls
+Turn [Ah 6s 5c 3c], BASELINE (142), IIT2024037_python_bot (142)
+Current stacks: 258, 258
+IIT2024037_python_bot bets 172
+BASELINE raises to 258
+IIT2024037_python_bot calls
+River [Ah 6s 5c 3c 2d], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [3s 8h]
+IIT2024037_python_bot shows [Qc Qd]
+BASELINE awarded -400
+IIT2024037_python_bot awarded 400
+Winning counts at the end of the round: , BASELINE (-7119), IIT2024037_python_bot (7119)
+
+Round #224, IIT2024037_python_bot (7119), BASELINE (-7119)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4h Jd]
+BASELINE dealt [4d 8c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7118), BASELINE (-7118)
+
+Round #225, BASELINE (-7118), IIT2024037_python_bot (7118)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7s 9s]
+IIT2024037_python_bot dealt [4h 5c]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [Jc 4c 9c], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Jc 4c 9c 3c], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot bets 4
+BASELINE raises to 8
+IIT2024037_python_bot calls
+River [Jc 4c 9c 3c 7h], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot bets 14
+BASELINE calls
+BASELINE shows [7s 9s]
+IIT2024037_python_bot shows [4h 5c]
+BASELINE awarded -24
+IIT2024037_python_bot awarded 24
+Winning counts at the end of the round: , BASELINE (-7142), IIT2024037_python_bot (7142)
+
+Round #226, IIT2024037_python_bot (7142), BASELINE (-7142)
+Bounties reset to 3 for player IIT2024037_python_bot and 6 for player BASELINE
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qc 6c]
+BASELINE dealt [9d Kh]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7141), BASELINE (-7141)
+
+Round #227, BASELINE (-7141), IIT2024037_python_bot (7141)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8h Kc]
+IIT2024037_python_bot dealt [Ad Qs]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE calls
+Flop [8s 6h Js], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [8s 6h Js 6d], BASELINE (22), IIT2024037_python_bot (22)
+Current stacks: 378, 378
+IIT2024037_python_bot checks
+BASELINE checks
+River [8s 6h Js 6d 9d], BASELINE (22), IIT2024037_python_bot (22)
+Current stacks: 378, 378
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [8h Kc]
+IIT2024037_python_bot shows [Ad Qs]
+BASELINE awarded 46
+IIT2024037_python_bot awarded -46
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-7095), IIT2024037_python_bot (7095)
+
+Round #228, IIT2024037_python_bot (7095), BASELINE (-7095)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6s 3c]
+BASELINE dealt [Kd As]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7094), BASELINE (-7094)
+
+Round #229, BASELINE (-7094), IIT2024037_python_bot (7094)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ah Tc]
+IIT2024037_python_bot dealt [Ts 8d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot folds
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+Winning counts at the end of the round: , BASELINE (-7088), IIT2024037_python_bot (7088)
+
+Round #230, IIT2024037_python_bot (7088), BASELINE (-7088)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2d 9c]
+BASELINE dealt [3c Qh]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7087), BASELINE (-7087)
+
+Round #231, BASELINE (-7087), IIT2024037_python_bot (7087)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8h Ad]
+IIT2024037_python_bot dealt [3c 2h]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-7085), IIT2024037_python_bot (7085)
+
+Round #232, IIT2024037_python_bot (7085), BASELINE (-7085)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7d 6h]
+BASELINE dealt [5d Jc]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7084), BASELINE (-7084)
+
+Round #233, BASELINE (-7084), IIT2024037_python_bot (7084)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9d 7h]
+IIT2024037_python_bot dealt [4d Kd]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-7085), IIT2024037_python_bot (7085)
+
+Round #234, IIT2024037_python_bot (7085), BASELINE (-7085)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5s Ac]
+BASELINE dealt [9d 2h]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [Kc Qd 9h], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [Kc Qd 9h Th], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Kc Qd 9h Th Jd], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot bets 6
+BASELINE raises to 12
+IIT2024037_python_bot raises to 31
+BASELINE raises to 50
+IIT2024037_python_bot raises to 116
+BASELINE calls
+IIT2024037_python_bot shows [5s Ac]
+BASELINE shows [9d 2h]
+IIT2024037_python_bot awarded 120
+BASELINE awarded -120
+Winning counts at the end of the round: , IIT2024037_python_bot (7205), BASELINE (-7205)
+
+Round #235, BASELINE (-7205), IIT2024037_python_bot (7205)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Th Jc]
+IIT2024037_python_bot dealt [3s 2d]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-7203), IIT2024037_python_bot (7203)
+
+Round #236, IIT2024037_python_bot (7203), BASELINE (-7203)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5d 8c]
+BASELINE dealt [8s 2h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7202), BASELINE (-7202)
+
+Round #237, BASELINE (-7202), IIT2024037_python_bot (7202)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qc 4s]
+IIT2024037_python_bot dealt [Tc Qs]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE raises to 28
+IIT2024037_python_bot raises to 44
+BASELINE folds
+BASELINE awarded -28
+IIT2024037_python_bot awarded 28
+Winning counts at the end of the round: , BASELINE (-7230), IIT2024037_python_bot (7230)
+
+Round #238, IIT2024037_python_bot (7230), BASELINE (-7230)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [5h 8d]
+BASELINE dealt [3s 2c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7229), BASELINE (-7229)
+
+Round #239, BASELINE (-7229), IIT2024037_python_bot (7229)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9h 8s]
+IIT2024037_python_bot dealt [Ac 9d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot calls
+Flop [Qc 4d Jc], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Qc 4d Jc 7d], BASELINE (12), IIT2024037_python_bot (12)
+Current stacks: 388, 388
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Qc 4d Jc 7d Qs], BASELINE (14), IIT2024037_python_bot (14)
+Current stacks: 386, 386
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [9h 8s]
+IIT2024037_python_bot shows [Ac 9d]
+BASELINE awarded -16
+IIT2024037_python_bot awarded 16
+Winning counts at the end of the round: , BASELINE (-7245), IIT2024037_python_bot (7245)
+
+Round #240, IIT2024037_python_bot (7245), BASELINE (-7245)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ad 5c]
+BASELINE dealt [7c Kh]
+IIT2024037_python_bot calls
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [9c 9s 6d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [9c 9s 6d 5d], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot raises to 9
+BASELINE calls
+River [9c 9s 6d 5d Ks], IIT2024037_python_bot (13), BASELINE (13)
+Current stacks: 387, 387
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [Ad 5c]
+BASELINE shows [7c Kh]
+IIT2024037_python_bot awarded -32
+BASELINE awarded 32
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7213), BASELINE (-7213)
+
+Round #241, BASELINE (-7213), IIT2024037_python_bot (7213)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9s Jh]
+IIT2024037_python_bot dealt [9h Ts]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE calls
+Flop [4h 6c 2h], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [4h 6c 2h 8s], BASELINE (22), IIT2024037_python_bot (22)
+Current stacks: 378, 378
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [4h 6c 2h 8s 8h], BASELINE (24), IIT2024037_python_bot (24)
+Current stacks: 376, 376
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [9s Jh]
+IIT2024037_python_bot shows [9h Ts]
+BASELINE awarded 46
+IIT2024037_python_bot awarded -46
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-7167), IIT2024037_python_bot (7167)
+
+Round #242, IIT2024037_python_bot (7167), BASELINE (-7167)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [6h 5s]
+BASELINE dealt [3s Kh]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7166), BASELINE (-7166)
+
+Round #243, BASELINE (-7166), IIT2024037_python_bot (7166)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8c 3h]
+IIT2024037_python_bot dealt [4h 7d]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [Qh 8d As], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Qh 8d As 5d], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-7164), IIT2024037_python_bot (7164)
+
+Round #244, IIT2024037_python_bot (7164), BASELINE (-7164)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4s Qh]
+BASELINE dealt [Td 2s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7163), BASELINE (-7163)
+
+Round #245, BASELINE (-7163), IIT2024037_python_bot (7163)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9h Jc]
+IIT2024037_python_bot dealt [2s Th]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-7161), IIT2024037_python_bot (7161)
+
+Round #246, IIT2024037_python_bot (7161), BASELINE (-7161)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8h 3d]
+BASELINE dealt [Jc 9h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7160), BASELINE (-7160)
+
+Round #247, BASELINE (-7160), IIT2024037_python_bot (7160)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [As 2h]
+IIT2024037_python_bot dealt [6c 8c]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot calls
+Flop [2d 5d 3h], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [2d 5d 3h 3d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+River [2d 5d 3h 3d 8d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [As 2h]
+IIT2024037_python_bot shows [6c 8c]
+BASELINE awarded -28
+IIT2024037_python_bot awarded 28
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-7188), IIT2024037_python_bot (7188)
+
+Round #248, IIT2024037_python_bot (7188), BASELINE (-7188)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Tc Jh]
+BASELINE dealt [8s 6h]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE raises to 14
+IIT2024037_python_bot raises to 22
+BASELINE raises to 30
+IIT2024037_python_bot raises to 46
+BASELINE folds
+IIT2024037_python_bot awarded 30
+BASELINE awarded -30
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7218), BASELINE (-7218)
+
+Round #249, BASELINE (-7218), IIT2024037_python_bot (7218)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Tc Kd]
+IIT2024037_python_bot dealt [6c 2s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-7216), IIT2024037_python_bot (7216)
+
+Round #250, IIT2024037_python_bot (7216), BASELINE (-7216)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4c 3s]
+BASELINE dealt [5c As]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7215), BASELINE (-7215)
+
+Round #251, BASELINE (-7215), IIT2024037_python_bot (7215)
+Bounties reset to 6 for player BASELINE and 7 for player IIT2024037_python_bot
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4c Qh]
+IIT2024037_python_bot dealt [7h 6c]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot folds
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-7209), IIT2024037_python_bot (7209)
+
+Round #252, IIT2024037_python_bot (7209), BASELINE (-7209)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4h 9h]
+BASELINE dealt [Ad 7s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7208), BASELINE (-7208)
+
+Round #253, BASELINE (-7208), IIT2024037_python_bot (7208)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4s Qs]
+IIT2024037_python_bot dealt [2d 9d]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-7209), IIT2024037_python_bot (7209)
+
+Round #254, IIT2024037_python_bot (7209), BASELINE (-7209)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Jd 3h]
+BASELINE dealt [4c Tc]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7208), BASELINE (-7208)
+
+Round #255, BASELINE (-7208), IIT2024037_python_bot (7208)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kh 9d]
+IIT2024037_python_bot dealt [2h Jh]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot folds
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+Winning counts at the end of the round: , BASELINE (-7202), IIT2024037_python_bot (7202)
+
+Round #256, IIT2024037_python_bot (7202), BASELINE (-7202)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8c Jd]
+BASELINE dealt [9d 6h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7190), BASELINE (-7190)
+
+Round #257, BASELINE (-7190), IIT2024037_python_bot (7190)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7d Ks]
+IIT2024037_python_bot dealt [8h As]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [2c Jc 9h], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [2c Jc 9h 9s], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot bets 6
+BASELINE calls
+River [2c Jc 9h 9s 6c], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [7d Ks]
+IIT2024037_python_bot shows [8h As]
+BASELINE awarded -10
+IIT2024037_python_bot awarded 10
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-7200), IIT2024037_python_bot (7200)
+
+Round #258, IIT2024037_python_bot (7200), BASELINE (-7200)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ah Jd]
+BASELINE dealt [5s Jc]
+IIT2024037_python_bot raises to 4
+BASELINE folds
+IIT2024037_python_bot awarded 2
+BASELINE awarded -2
+Winning counts at the end of the round: , IIT2024037_python_bot (7202), BASELINE (-7202)
+
+Round #259, BASELINE (-7202), IIT2024037_python_bot (7202)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [7h 5s]
+IIT2024037_python_bot dealt [9s As]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE folds
+BASELINE awarded -10
+IIT2024037_python_bot awarded 10
+Winning counts at the end of the round: , BASELINE (-7212), IIT2024037_python_bot (7212)
+
+Round #260, IIT2024037_python_bot (7212), BASELINE (-7212)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qc 4h]
+BASELINE dealt [Td 8s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7211), BASELINE (-7211)
+
+Round #261, BASELINE (-7211), IIT2024037_python_bot (7211)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9d Ad]
+IIT2024037_python_bot dealt [8s Js]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-7209), IIT2024037_python_bot (7209)
+
+Round #262, IIT2024037_python_bot (7209), BASELINE (-7209)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8d 4d]
+BASELINE dealt [8s 4s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7208), BASELINE (-7208)
+
+Round #263, BASELINE (-7208), IIT2024037_python_bot (7208)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Kd 8d]
+IIT2024037_python_bot dealt [4d Qs]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Th 5d 4c], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [Th 5d 4c Kc], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+River [Th 5d 4c Kc Qc], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE folds
+BASELINE awarded -6
+IIT2024037_python_bot awarded 6
+Winning counts at the end of the round: , BASELINE (-7214), IIT2024037_python_bot (7214)
+
+Round #264, IIT2024037_python_bot (7214), BASELINE (-7214)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Ah Kd]
+BASELINE dealt [8d 7c]
+IIT2024037_python_bot raises to 4
+BASELINE folds
+IIT2024037_python_bot awarded 2
+BASELINE awarded -2
+Winning counts at the end of the round: , IIT2024037_python_bot (7216), BASELINE (-7216)
+
+Round #265, BASELINE (-7216), IIT2024037_python_bot (7216)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [As 7c]
+IIT2024037_python_bot dealt [9s 8d]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-7214), IIT2024037_python_bot (7214)
+
+Round #266, IIT2024037_python_bot (7214), BASELINE (-7214)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qd Kc]
+BASELINE dealt [6d Ac]
+IIT2024037_python_bot raises to 4
+BASELINE calls
+Flop [3d Qs Kd], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot raises to 9
+BASELINE raises to 16
+IIT2024037_python_bot raises to 40
+BASELINE raises to 64
+IIT2024037_python_bot raises to 148
+BASELINE calls
+Turn [3d Qs Kd 9s], IIT2024037_python_bot (152), BASELINE (152)
+Current stacks: 248, 248
+BASELINE checks
+IIT2024037_python_bot bets 184
+BASELINE raises to 248
+IIT2024037_python_bot calls
+River [3d Qs Kd 9s 4d], IIT2024037_python_bot (400), BASELINE (400)
+Current stacks: 0, 0
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [Qd Kc]
+BASELINE shows [6d Ac]
+IIT2024037_python_bot awarded 400
+BASELINE awarded -400
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7614), BASELINE (-7614)
+
+Round #267, BASELINE (-7614), IIT2024037_python_bot (7614)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qc Jc]
+IIT2024037_python_bot dealt [5h Kc]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-7615), IIT2024037_python_bot (7615)
+
+Round #268, IIT2024037_python_bot (7615), BASELINE (-7615)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [As 5d]
+BASELINE dealt [Th 8d]
+IIT2024037_python_bot calls
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [6s Qh Qs], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [6s Qh Qs Qd], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE checks
+IIT2024037_python_bot checks
+River [6s Qh Qs Qd 7h], IIT2024037_python_bot (4), BASELINE (4)
+Current stacks: 396, 396
+BASELINE bets 2
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [As 5d]
+BASELINE shows [Th 8d]
+IIT2024037_python_bot awarded 19
+BASELINE awarded -19
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7634), BASELINE (-7634)
+
+Round #269, BASELINE (-7634), IIT2024037_python_bot (7634)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5d 5c]
+IIT2024037_python_bot dealt [5h 6s]
+BASELINE calls
+IIT2024037_python_bot checks
+Flop [4h Kc Ad], BASELINE (2), IIT2024037_python_bot (2)
+Current stacks: 398, 398
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-7632), IIT2024037_python_bot (7632)
+
+Round #270, IIT2024037_python_bot (7632), BASELINE (-7632)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Qh Js]
+BASELINE dealt [3c 2d]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE raises to 14
+IIT2024037_python_bot raises to 22
+BASELINE calls
+Flop [6h 9c 5h], IIT2024037_python_bot (22), BASELINE (22)
+Current stacks: 378, 378
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [6h 9c 5h 8d], IIT2024037_python_bot (24), BASELINE (24)
+Current stacks: 376, 376
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [6h 9c 5h 8d 2h], IIT2024037_python_bot (26), BASELINE (26)
+Current stacks: 374, 374
+BASELINE bets 2
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -49
+BASELINE awarded 49
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7583), BASELINE (-7583)
+
+Round #271, BASELINE (-7583), IIT2024037_python_bot (7583)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [8c 9d]
+IIT2024037_python_bot dealt [Th 3s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-7581), IIT2024037_python_bot (7581)
+
+Round #272, IIT2024037_python_bot (7581), BASELINE (-7581)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8s 5c]
+BASELINE dealt [6h 9s]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -12
+BASELINE awarded 12
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (7569), BASELINE (-7569)
+
+Round #273, BASELINE (-7569), IIT2024037_python_bot (7569)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2h Qh]
+IIT2024037_python_bot dealt [Ah Ad]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE raises to 10
+IIT2024037_python_bot raises to 18
+BASELINE calls
+Flop [3s Qc 8c], BASELINE (18), IIT2024037_python_bot (18)
+Current stacks: 382, 382
+IIT2024037_python_bot bets 23
+BASELINE calls
+Turn [3s Qc 8c Ac], BASELINE (41), IIT2024037_python_bot (41)
+Current stacks: 359, 359
+IIT2024037_python_bot bets 51
+BASELINE calls
+River [3s Qc 8c Ac 4s], BASELINE (92), IIT2024037_python_bot (92)
+Current stacks: 308, 308
+IIT2024037_python_bot bets 112
+BASELINE calls
+BASELINE shows [2h Qh]
+IIT2024037_python_bot shows [Ah Ad]
+BASELINE awarded -204
+IIT2024037_python_bot awarded 204
+Winning counts at the end of the round: , BASELINE (-7773), IIT2024037_python_bot (7773)
+
+Round #274, IIT2024037_python_bot (7773), BASELINE (-7773)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Td 4h]
+BASELINE dealt [8s Jc]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7772), BASELINE (-7772)
+
+Round #275, BASELINE (-7772), IIT2024037_python_bot (7772)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Ks 9h]
+IIT2024037_python_bot dealt [2s As]
+BASELINE folds
+BASELINE awarded -1
+IIT2024037_python_bot awarded 1
+Winning counts at the end of the round: , BASELINE (-7773), IIT2024037_python_bot (7773)
+
+Round #276, IIT2024037_python_bot (7773), BASELINE (-7773)
+Bounties reset to J for player IIT2024037_python_bot and T for player BASELINE
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [7s Ts]
+BASELINE dealt [9s 4h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7772), BASELINE (-7772)
+
+Round #277, BASELINE (-7772), IIT2024037_python_bot (7772)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [5s 3c]
+IIT2024037_python_bot dealt [2s Tc]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [5h 5d 6h], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [5h 5d 6h 7d], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot folds
+BASELINE awarded 6
+IIT2024037_python_bot awarded -6
+Winning counts at the end of the round: , BASELINE (-7766), IIT2024037_python_bot (7766)
+
+Round #278, IIT2024037_python_bot (7766), BASELINE (-7766)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2s 5s]
+BASELINE dealt [9c Kd]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7765), BASELINE (-7765)
+
+Round #279, BASELINE (-7765), IIT2024037_python_bot (7765)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2c 3c]
+IIT2024037_python_bot dealt [Ks Qc]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE calls
+Flop [9s 4h 5s], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [9s 4h 5s 2h], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+River [9s 4h 5s 2h 2d], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [2c 3c]
+IIT2024037_python_bot shows [Ks Qc]
+BASELINE awarded 10
+IIT2024037_python_bot awarded -10
+Winning counts at the end of the round: , BASELINE (-7755), IIT2024037_python_bot (7755)
+
+Round #280, IIT2024037_python_bot (7755), BASELINE (-7755)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3h 7d]
+BASELINE dealt [2c 3d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7754), BASELINE (-7754)
+
+Round #281, BASELINE (-7754), IIT2024037_python_bot (7754)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qh Tc]
+IIT2024037_python_bot dealt [3s As]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-7756), IIT2024037_python_bot (7756)
+
+Round #282, IIT2024037_python_bot (7756), BASELINE (-7756)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2h 3d]
+BASELINE dealt [Kd Jh]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7755), BASELINE (-7755)
+
+Round #283, BASELINE (-7755), IIT2024037_python_bot (7755)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [9s 8h]
+IIT2024037_python_bot dealt [Qc 5c]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+Winning counts at the end of the round: , BASELINE (-7757), IIT2024037_python_bot (7757)
+
+Round #284, IIT2024037_python_bot (7757), BASELINE (-7757)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2s Qh]
+BASELINE dealt [6d 2d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7756), BASELINE (-7756)
+
+Round #285, BASELINE (-7756), IIT2024037_python_bot (7756)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3s Kd]
+IIT2024037_python_bot dealt [5d 6d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [4s 5h Kh], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot bets 9
+BASELINE raises to 18
+IIT2024037_python_bot calls
+Turn [4s 5h Kh 7c], BASELINE (24), IIT2024037_python_bot (24)
+Current stacks: 376, 376
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot raises to 39
+BASELINE raises to 76
+IIT2024037_python_bot calls
+River [4s 5h Kh 7c 6s], BASELINE (100), IIT2024037_python_bot (100)
+Current stacks: 300, 300
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [3s Kd]
+IIT2024037_python_bot shows [5d 6d]
+BASELINE awarded 100
+IIT2024037_python_bot awarded -100
+Winning counts at the end of the round: , BASELINE (-7656), IIT2024037_python_bot (7656)
+
+Round #286, IIT2024037_python_bot (7656), BASELINE (-7656)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2c 2d]
+BASELINE dealt [8s 5h]
+IIT2024037_python_bot raises to 4
+BASELINE raises to 6
+IIT2024037_python_bot raises to 10
+BASELINE calls
+Flop [4d Kh Ah], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [4d Kh Ah As], IIT2024037_python_bot (10), BASELINE (10)
+Current stacks: 390, 390
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [4d Kh Ah As 4s], IIT2024037_python_bot (12), BASELINE (12)
+Current stacks: 388, 388
+BASELINE checks
+IIT2024037_python_bot checks
+IIT2024037_python_bot shows [2c 2d]
+BASELINE shows [8s 5h]
+IIT2024037_python_bot awarded 0
+BASELINE awarded 0
+Winning counts at the end of the round: , IIT2024037_python_bot (7656), BASELINE (-7656)
+
+Round #287, BASELINE (-7656), IIT2024037_python_bot (7656)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3c Jd]
+IIT2024037_python_bot dealt [Js 9h]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE raises to 12
+IIT2024037_python_bot raises to 20
+BASELINE calls
+Flop [6h Jc 4h], BASELINE (20), IIT2024037_python_bot (20)
+Current stacks: 380, 380
+IIT2024037_python_bot bets 26
+BASELINE calls
+Turn [6h Jc 4h Qh], BASELINE (46), IIT2024037_python_bot (46)
+Current stacks: 354, 354
+IIT2024037_python_bot bets 57
+BASELINE calls
+River [6h Jc 4h Qh Tc], BASELINE (103), IIT2024037_python_bot (103)
+Current stacks: 297, 297
+IIT2024037_python_bot bets 125
+BASELINE raises to 250
+IIT2024037_python_bot calls
+BASELINE shows [3c Jd]
+IIT2024037_python_bot shows [Js 9h]
+BASELINE awarded -540
+IIT2024037_python_bot awarded 540
+BASELINE hits their bounty
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-8196), IIT2024037_python_bot (8196)
+
+Round #288, IIT2024037_python_bot (8196), BASELINE (-8196)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [9h 8d]
+BASELINE dealt [3h As]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (8195), BASELINE (-8195)
+
+Round #289, BASELINE (-8195), IIT2024037_python_bot (8195)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [2c 4s]
+IIT2024037_python_bot dealt [Qs 5s]
+BASELINE raises to 4
+IIT2024037_python_bot folds
+BASELINE awarded 2
+IIT2024037_python_bot awarded -2
+Winning counts at the end of the round: , BASELINE (-8193), IIT2024037_python_bot (8193)
+
+Round #290, IIT2024037_python_bot (8193), BASELINE (-8193)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [2h Jc]
+BASELINE dealt [3d 6h]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [Td Kh 9d], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [Td Kh 9d 2c], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+River [Td Kh 9d 2c Tc], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot bets 4
+BASELINE raises to 8
+IIT2024037_python_bot calls
+IIT2024037_python_bot shows [2h Jc]
+BASELINE shows [3d 6h]
+IIT2024037_python_bot awarded 25
+BASELINE awarded -25
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (8218), BASELINE (-8218)
+
+Round #291, BASELINE (-8218), IIT2024037_python_bot (8218)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [4d 8h]
+IIT2024037_python_bot dealt [2h Ah]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE folds
+BASELINE awarded -2
+IIT2024037_python_bot awarded 2
+Winning counts at the end of the round: , BASELINE (-8220), IIT2024037_python_bot (8220)
+
+Round #292, IIT2024037_python_bot (8220), BASELINE (-8220)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8h 9s]
+BASELINE dealt [Jd 8d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (8219), BASELINE (-8219)
+
+Round #293, BASELINE (-8219), IIT2024037_python_bot (8219)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Qh 4s]
+IIT2024037_python_bot dealt [7s 9d]
+BASELINE calls
+IIT2024037_python_bot raises to 6
+BASELINE calls
+Flop [Ac 8c Td], BASELINE (6), IIT2024037_python_bot (6)
+Current stacks: 394, 394
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+Turn [Ac 8c Td Tc], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+River [Ac 8c Td Tc Qc], BASELINE (10), IIT2024037_python_bot (10)
+Current stacks: 390, 390
+IIT2024037_python_bot checks
+BASELINE bets 2
+IIT2024037_python_bot calls
+BASELINE shows [Qh 4s]
+IIT2024037_python_bot shows [7s 9d]
+BASELINE awarded 28
+IIT2024037_python_bot awarded -28
+BASELINE hits their bounty
+Winning counts at the end of the round: , BASELINE (-8191), IIT2024037_python_bot (8191)
+
+Round #294, IIT2024037_python_bot (8191), BASELINE (-8191)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [Th 7d]
+BASELINE dealt [Qh 3c]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (8190), BASELINE (-8190)
+
+Round #295, BASELINE (-8190), IIT2024037_python_bot (8190)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [Jd Ad]
+IIT2024037_python_bot dealt [4s Jc]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [3d Kd 7s], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot checks
+BASELINE checks
+Turn [3d Kd 7s Js], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot bets 6
+BASELINE raises to 12
+IIT2024037_python_bot raises to 31
+BASELINE raises to 50
+IIT2024037_python_bot raises to 116
+BASELINE raises to 182
+IIT2024037_python_bot raises to 396
+BASELINE calls
+River [3d Kd 7s Js 3h], BASELINE (400), IIT2024037_python_bot (400)
+Current stacks: 0, 0
+IIT2024037_python_bot checks
+BASELINE checks
+BASELINE shows [Jd Ad]
+IIT2024037_python_bot shows [4s Jc]
+BASELINE awarded 400
+IIT2024037_python_bot awarded -400
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-7790), IIT2024037_python_bot (7790)
+
+Round #296, IIT2024037_python_bot (7790), BASELINE (-7790)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [8d Qs]
+BASELINE dealt [4d 5d]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (7789), BASELINE (-7789)
+
+Round #297, BASELINE (-7789), IIT2024037_python_bot (7789)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [6s 8s]
+IIT2024037_python_bot dealt [Jc 8d]
+BASELINE raises to 4
+IIT2024037_python_bot calls
+Flop [As Jh Kc], BASELINE (4), IIT2024037_python_bot (4)
+Current stacks: 396, 396
+IIT2024037_python_bot bets 6
+BASELINE raises to 12
+IIT2024037_python_bot raises to 31
+BASELINE raises to 50
+IIT2024037_python_bot raises to 116
+BASELINE raises to 182
+IIT2024037_python_bot raises to 396
+BASELINE folds
+BASELINE awarded -289
+IIT2024037_python_bot awarded 289
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-8078), IIT2024037_python_bot (8078)
+
+Round #298, IIT2024037_python_bot (8078), BASELINE (-8078)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [4d 2d]
+BASELINE dealt [8h 2h]
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -1
+BASELINE awarded 1
+Winning counts at the end of the round: , IIT2024037_python_bot (8077), BASELINE (-8077)
+
+Round #299, BASELINE (-8077), IIT2024037_python_bot (8077)
+BASELINE posts the blind of 1
+IIT2024037_python_bot posts the blind of 2
+BASELINE dealt [3d 2h]
+IIT2024037_python_bot dealt [Jd Qh]
+BASELINE raises to 4
+IIT2024037_python_bot raises to 8
+BASELINE calls
+Flop [5h Qd Ac], BASELINE (8), IIT2024037_python_bot (8)
+Current stacks: 392, 392
+IIT2024037_python_bot bets 11
+BASELINE raises to 22
+IIT2024037_python_bot raises to 58
+BASELINE calls
+Turn [5h Qd Ac 6s], BASELINE (66), IIT2024037_python_bot (66)
+Current stacks: 334, 334
+IIT2024037_python_bot bets 81
+BASELINE raises to 162
+IIT2024037_python_bot raises to 334
+BASELINE folds
+BASELINE awarded -352
+IIT2024037_python_bot awarded 352
+IIT2024037_python_bot hits their bounty
+Winning counts at the end of the round: , BASELINE (-8429), IIT2024037_python_bot (8429)
+
+Round #300, IIT2024037_python_bot (8429), BASELINE (-8429)
+IIT2024037_python_bot posts the blind of 1
+BASELINE posts the blind of 2
+IIT2024037_python_bot dealt [3h Jd]
+BASELINE dealt [8d 6h]
+IIT2024037_python_bot calls
+BASELINE checks
+Flop [Tc 5d Ad], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+Turn [Tc 5d Ad 7c], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE checks
+IIT2024037_python_bot checks
+River [Tc 5d Ad 7c 6d], IIT2024037_python_bot (2), BASELINE (2)
+Current stacks: 398, 398
+BASELINE bets 2
+IIT2024037_python_bot folds
+IIT2024037_python_bot awarded -13
+BASELINE awarded 13
+IIT2024037_python_bot hits their bounty
+BASELINE hits their bounty
+Winning counts at the end of the round: , IIT2024037_python_bot (8416), BASELINE (-8416)
+
+Final, BASELINE (-8416), IIT2024037_python_bot (8416)
+BASELINE preflop bets EV: 4080
+BASELINE flop bets EV: 340
+BASELINE turn bets EV: -10627
+IIT2024037_python_bot preflop bets EV: -4598
+IIT2024037_python_bot flop bets EV: 894
+IIT2024037_python_bot turn bets EV: 11592
